@@ -8,19 +8,19 @@
   <a href="https://www.linkedin.com/in/gabrielreguse">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:viniciushoppe@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  <a href="mailto:gabrielreguse1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ViniciusOdorizziHoppe&style=for-the-badge&color=7c3aed&label=VISITAS"/>
+  <img src="https://komarev.com/ghpvc/?username=GabrielReguse&style=for-the-badge&color=7c3aed&label=VISITAS"/>
 </div>
 
 <br/>
 
 ```javascript
-const vinicius = {
+const gabriel = {
   role:     "Técnico em Informática @ IFC",
-  focus:    "Back-end Development",
-  building: ["APIs REST", "sistemas escaláveis", "produtos digitais"],
+  focus:    "Front-end Development",
+  building: ["React, HTML5, CSS3, JS"],
   looking:  "Estágio / Jr · Remoto 🌐",
   motto:    "Código limpo hoje, problema evitado amanhã."
 };

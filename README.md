@@ -32,30 +32,19 @@ const gabriel = {
 
 <div align="center">
 
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 **Front-end**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Banco de dados & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-**Ferramentas**
+**Ferramentas & Deploy**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -65,18 +54,17 @@ const gabriel = {
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ViniciusOdorizziHoppe&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=GabrielReguse&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
 </div>
 
 ---
 
 ## 🚀 Interesses
 
-- 🔌 **APIs & integrações** — construir serviços que escalam  
-- 🗄️ **Bancos de dados** — modelagem, performance e segurança  
-- 🤖 **Automação** — menos trabalho manual, mais valor real  
+- 🎨 **UI & experiência do usuário** — interfaces bonitas e funcionais  
+- ⚡ **Performance web** — páginas rápidas e otimizadas  
+- 🔌 **Consumo de APIs** — conectar front com serviços reais  
 - 📦 **Produtos digitais** — do zero ao deploy
-
 ---
 
 <div align="center">

@@ -4,9 +4,7 @@ on:
   schedule:
     # runs every 12 hours
     - cron: "0 */12 * * *"
-  # run manually from the Actions tab
   workflow_dispatch:
-  # run on every push to main
   push:
     branches:
       - main
@@ -22,16 +20,45 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Light mode: deep-blue serpent on sky-to-cloud dot gradient
-          # Dark mode:  golden serpent on Aegean-night gradient
+          # Light: deep-blue serpent on sky→cloud→gold dot gradient
+          # Dark : golden serpent on Aegean-night gradient
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#0c2d5e&color_dots=#fef3c7,#bfdbfe,#3b82f6,#1e4a8c,#0c2d5e
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#e0b84a&color_dots=#0c2d5e,#1e4a8c,#3b82f6,#e0b84a,#fef3c7
 
-      - name: Push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Publish snake SVGs to the `output` branch (without wiping it)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          BRANCH=output
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stash the freshly generated svgs so they survive the branch switch
+          mkdir -p /tmp/snake-out
+          cp -f dist/github-contribution-grid-snake.svg      /tmp/snake-out/
+          cp -f dist/github-contribution-grid-snake-dark.svg /tmp/snake-out/
+
+          # Create or check out the `output` branch.
+          # If it exists on the remote, fetch & switch to it (preserving its contents).
+          # Otherwise create an empty orphan branch.
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$BRANCH":"$BRANCH"
+            git checkout "$BRANCH"
+          else
+            git checkout --orphan "$BRANCH"
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          # Drop the snake SVGs at the root of the branch
+          cp -f /tmp/snake-out/github-contribution-grid-snake.svg      ./
+          cp -f /tmp/snake-out/github-contribution-grid-snake-dark.svg ./
+
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "No snake changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update snake SVGs (Athens palette) [skip ci]"
+          git push origin "$BRANCH"

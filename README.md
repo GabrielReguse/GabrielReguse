@@ -216,9 +216,9 @@ Versioning with **Git**, collaborating on **GitHub** and shipping to **Vercel**.
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielReguse/GabrielReguse/output/profile-night-rainbow.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielReguse/GabrielReguse/output/profile-rainbow.svg"/>
-  <img alt="3D contribution calendar — Athens style" src="https://raw.githubusercontent.com/GabrielReguse/GabrielReguse/output/profile-night-rainbow.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielReguse/GabrielReguse/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielReguse/GabrielReguse/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+  <img alt="3D contribution calendar — Athens style" src="https://raw.githubusercontent.com/GabrielReguse/GabrielReguse/output/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 </picture>
 
 </div>

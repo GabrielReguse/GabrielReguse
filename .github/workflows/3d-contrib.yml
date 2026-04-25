@@ -19,27 +19,42 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate 3D contribution calendar
+      - name: Generate 3D contribution calendar (writes to ./profile-3d-contrib/)
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & push generated SVGs
+      - name: Publish 3D SVGs to the `output` branch (without wiping it)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH_NAME=output
+          set -e
+          BRANCH=output
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin $BRANCH_NAME || true
-          # Switch to the output branch (create if missing)
-          git checkout -B $BRANCH_NAME
-          mkdir -p .
-          # Copy generated profile-*.svg files into root of branch
-          cp -f profile-*.svg . 2>/dev/null || true
-          git add profile-*.svg
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: update 3D contribution profile [skip ci]"
-            git push -f origin $BRANCH_NAME
+
+          # Stash the generated SVGs in /tmp so they survive the branch switch
+          mkdir -p /tmp/3d-out
+          cp -rf profile-3d-contrib/* /tmp/3d-out/
+
+          # Switch to (or create) the output branch, preserving existing contents
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$BRANCH":"$BRANCH"
+            git checkout "$BRANCH"
           else
-            echo "No changes to commit."
+            git checkout --orphan "$BRANCH"
+            git rm -rf . >/dev/null 2>&1 || true
           fi
+
+          # Place the 3D SVGs into ./profile-3d-contrib/ on the output branch
+          mkdir -p profile-3d-contrib
+          cp -f /tmp/3d-out/* profile-3d-contrib/
+
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No 3D-contrib changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update 3D contribution SVGs [skip ci]"
+          git push origin "$BRANCH"

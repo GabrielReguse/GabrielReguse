@@ -1,6 +1,5 @@
+name: Generate Snake (Athena's Sacred Serpent)
 
-name: Generate Snake
- 
 on:
   schedule:
     # runs every 12 hours
@@ -11,22 +10,24 @@ on:
   push:
     branches:
       - main
- 
+
 permissions:
   contents: write
- 
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake.svg files
+      - name: Generate snake.svg files (Athens palette)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Light mode: deep-blue serpent on sky-to-cloud dot gradient
+          # Dark mode:  golden serpent on Aegean-night gradient
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#a78bfa&color_dots=#1f1147,#4c1d95,#7c3aed,#a78bfa,#c4b5fd
- 
+            dist/github-contribution-grid-snake.svg?color_snake=#0c2d5e&color_dots=#fef3c7,#bfdbfe,#3b82f6,#1e4a8c,#0c2d5e
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#e0b84a&color_dots=#0c2d5e,#1e4a8c,#3b82f6,#e0b84a,#fef3c7
+
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:

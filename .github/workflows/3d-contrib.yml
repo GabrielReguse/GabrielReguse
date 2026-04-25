@@ -38,10 +38,15 @@ jobs:
           mkdir -p /tmp/3d-out
           cp -rf profile-3d-contrib/* /tmp/3d-out/
 
+          # IMPORTANT: remove the freshly generated files from the working tree.
+          # Otherwise `git checkout output` refuses, because the same paths
+          # already exist on the `output` branch and would be overwritten.
+          rm -rf profile-3d-contrib
+
           # Switch to (or create) the output branch, preserving existing contents
           if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
-            git fetch origin "$BRANCH":"$BRANCH"
-            git checkout "$BRANCH"
+            git fetch origin "$BRANCH"
+            git checkout -B "$BRANCH" "origin/$BRANCH"
           else
             git checkout --orphan "$BRANCH"
             git rm -rf . >/dev/null 2>&1 || true

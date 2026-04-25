@@ -16,6 +16,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository (needed for git push step)
+        uses: actions/checkout@v4
+
       - name: Generate snake.svg files (Athens palette)
         uses: Platane/snk/svg-only@v3
         with:

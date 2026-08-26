@@ -1,14 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 320" role="img" aria-labelledby="title desc">
-  <title id="title">INF 25B</title><desc id="desc">Project cover for INF 25B.</desc>
-  <style>.bg{fill:#090b12}.ink{fill:#f7f7fb}.muted{fill:#9b9daf}.line{stroke:#26293a}.accent{fill:#8b5cf6}text{font-family:Arial,Helvetica,sans-serif}</style>
-  <rect class="bg" width="580" height="320" rx="18"/>
-  <path class="line" d="M30 54H550M30 263H550"/>
-  <circle class="accent" cx="530" cy="33" r="7"/>
-  <text class="muted" x="30" y="36" font-size="11" font-weight="700" letter-spacing="2.2">02 / SCHOOL PLATFORM</text>
-  <rect x="30" y="80" width="72" height="72" rx="16" class="accent"/>
-  <text x="66" y="126" fill="#fff" font-size="27" text-anchor="middle" font-weight="800">25B</text>
-  <text class="ink" x="30" y="201" font-size="44" font-weight="800" letter-spacing="-2">INF 25B</text>
-  <text class="muted" x="30" y="232" font-size="15">Built around the real routine of my class.</text>
-  <text class="muted" x="30" y="291" font-size="11" font-weight="700" letter-spacing="1.2">JAVASCRIPT · REST API · PWA · VERCEL</text>
-  <text class="ink" x="520" y="294" font-size="19" font-weight="800">↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">INF 25B</title><desc id="d">A class platform for schedules, tasks, communication and administration.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+  <rect x="30" y="30" width="1140" height="240" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="64" y="74" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="14" letter-spacing="2.2">02 / SCHOOL PLATFORM · PWA</text>
+  <text x="64" y="142" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-2">INF 25B</text>
+  <text x="64" y="183" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="20">A digital layer for the everyday life of a real class.</text>
+  <text x="64" y="232" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="14">JAVASCRIPT · HTML · CSS · REST API · PWA · VERCEL</text>
+  <g transform="translate(768 50)">
+    <rect x="0" y="0" width="180" height="190" rx="18" fill="#0F172A" stroke="#334155"/>
+    <rect x="18" y="18" width="144" height="24" rx="8" fill="#172033"/>
+    <circle cx="34" cy="30" r="5" fill="#67E8F9"/>
+    <rect x="48" y="26" width="58" height="7" rx="3.5" fill="#475569"/>
+    <g fill="#1E293B" stroke="#334155">
+      <rect x="18" y="58" width="38" height="34" rx="7"/><rect x="64" y="58" width="38" height="34" rx="7"/><rect x="110" y="58" width="38" height="34" rx="7"/>
+      <rect x="18" y="100" width="38" height="34" rx="7"/><rect x="64" y="100" width="38" height="34" rx="7"/><rect x="110" y="100" width="38" height="34" rx="7"/>
+    </g>
+    <rect x="64" y="100" width="38" height="34" rx="7" fill="#2F6BFF" stroke="#2F6BFF"/>
+    <rect x="18" y="150" width="112" height="8" rx="4" fill="#334155"/>
+    <rect x="18" y="166" width="76" height="6" rx="3" fill="#233044"/>
+    <rect x="210" y="48" width="150" height="112" rx="18" fill="#F8FAFC"/>
+    <rect x="230" y="68" width="108" height="9" rx="4.5" fill="#CBD5E1"/>
+    <rect x="230" y="87" width="78" height="7" rx="3.5" fill="#E2E8F0"/>
+    <rect x="230" y="116" width="52" height="24" rx="12" fill="#2F6BFF"/>
+    <circle cx="326" cy="128" r="10" fill="#67E8F9"/>
+    <path d="M181 95H210" stroke="#60A5FA" stroke-width="2" stroke-dasharray="5 6"/>
+  </g>
 </svg>

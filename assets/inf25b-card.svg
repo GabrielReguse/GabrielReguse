@@ -1,29 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
-  <title id="t">INF 25B</title><desc id="d">A class platform for schedules, tasks, communication and administration.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
-  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
-  <rect x="30" y="30" width="1140" height="240" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
-  <text x="64" y="74" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="14" letter-spacing="2.2">02 / SCHOOL PLATFORM · PWA</text>
-  <text x="64" y="142" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-2">INF 25B</text>
-  <text x="64" y="183" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="20">A digital layer for the everyday life of a real class.</text>
-  <text x="64" y="232" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="14">JAVASCRIPT · HTML · CSS · REST API · PWA · VERCEL</text>
-  <g transform="translate(768 50)">
-    <rect x="0" y="0" width="180" height="190" rx="18" fill="#0F172A" stroke="#334155"/>
-    <rect x="18" y="18" width="144" height="24" rx="8" fill="#172033"/>
-    <circle cx="34" cy="30" r="5" fill="#67E8F9"/>
-    <rect x="48" y="26" width="58" height="7" rx="3.5" fill="#475569"/>
-    <g fill="#1E293B" stroke="#334155">
-      <rect x="18" y="58" width="38" height="34" rx="7"/><rect x="64" y="58" width="38" height="34" rx="7"/><rect x="110" y="58" width="38" height="34" rx="7"/>
-      <rect x="18" y="100" width="38" height="34" rx="7"/><rect x="64" y="100" width="38" height="34" rx="7"/><rect x="110" y="100" width="38" height="34" rx="7"/>
-    </g>
-    <rect x="64" y="100" width="38" height="34" rx="7" fill="#2F6BFF" stroke="#2F6BFF"/>
-    <rect x="18" y="150" width="112" height="8" rx="4" fill="#334155"/>
-    <rect x="18" y="166" width="76" height="6" rx="3" fill="#233044"/>
-    <rect x="210" y="48" width="150" height="112" rx="18" fill="#F8FAFC"/>
-    <rect x="230" y="68" width="108" height="9" rx="4.5" fill="#CBD5E1"/>
-    <rect x="230" y="87" width="78" height="7" rx="3.5" fill="#E2E8F0"/>
-    <rect x="230" y="116" width="52" height="24" rx="12" fill="#2F6BFF"/>
-    <circle cx="326" cy="128" r="10" fill="#67E8F9"/>
-    <path d="M181 95H210" stroke="#60A5FA" stroke-width="2" stroke-dasharray="5 6"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">INF 25B</title><desc id="d">A Windows 8 inspired dashboard card for a class platform with tasks, calendar, chat and administration.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2257b8"/><stop offset=".55" stop-color="#5a76d6"/><stop offset="1" stop-color="#7bd9f5"/></linearGradient>
+  <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".54"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#122e72" flood-opacity=".38"/></filter>
+</defs>
+<rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+<circle cx="1135" cy="54" r="45" fill="#fff" opacity=".16" stroke="#fff" stroke-opacity=".42"/><circle cx="1114" cy="38" r="11" fill="#fff" opacity=".45"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#fff">
+  <text x="52" y="66" font-size="14" font-weight="800" letter-spacing="3" opacity=".88">02 / COMMUNITY PRODUCT</text>
+  <text x="50" y="135" font-size="52" font-weight="700">INF 25B</text>
+  <text x="52" y="176" font-size="20" font-weight="600">A digital layer for the real routine of my class.</text>
+  <text x="52" y="216" font-size="15" opacity=".95">Tasks, exams, events, announcements, conversations,</text>
+  <text x="52" y="239" font-size="15" opacity=".95">notifications and administration in one responsive PWA.</text>
+  <text x="52" y="302" font-size="13" font-weight="700">JAVASCRIPT · HTML · CSS · REST API · PWA · VERCEL</text>
+</g>
+<g filter="url(#s)" font-family="Segoe UI,Arial,sans-serif" fill="#fff">
+  <g><rect x="625" y="62" width="235" height="116" rx="10" fill="#00a4ef"/><rect x="625" y="62" width="235" height="45" rx="10" fill="url(#shine)"/><text x="648" y="104" font-size="13" font-weight="700" letter-spacing="1.4">TODAY</text><text x="648" y="142" font-size="26" font-weight="700">3 tasks</text><text x="648" y="164" font-size="12">2 due · 1 upcoming</text></g>
+  <g><rect x="872" y="62" width="128" height="116" rx="10" fill="#7fba00"/><rect x="872" y="62" width="128" height="45" rx="10" fill="url(#shine)"/><text x="894" y="104" font-size="12" font-weight="700">CALENDAR</text><text x="894" y="145" font-size="32" font-weight="700">26</text></g>
+  <g><rect x="1012" y="62" width="136" height="116" rx="10" fill="#d83b90"/><rect x="1012" y="62" width="136" height="45" rx="10" fill="url(#shine)"/><text x="1034" y="104" font-size="12" font-weight="700">CHAT</text><text x="1034" y="145" font-size="28" font-weight="700">12</text><text x="1034" y="164" font-size="11">new messages</text></g>
+  <g><rect x="625" y="190" width="523" height="82" rx="10" fill="#fff" fill-opacity=".82" stroke="#fff"/><circle cx="661" cy="231" r="17" fill="#f28c18"/><rect x="692" y="212" width="210" height="11" rx="5" fill="#41506e" opacity=".88"/><rect x="692" y="232" width="358" height="9" rx="4" fill="#6b7c9f" opacity=".48"/><rect x="692" y="249" width="288" height="9" rx="4" fill="#6b7c9f" opacity=".38"/></g>
+</g>
+<text x="632" y="294" fill="#eafaff" font-family="Segoe UI,Arial,sans-serif" font-size="12">PWA shell · opt-in notifications · class communication · admin tools</text>
 </svg>

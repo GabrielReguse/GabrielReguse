@@ -1,37 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Gabriel Reguse — design engineering, front-end and product</title>
-  <desc id="desc">A dark editorial hero with cobalt blue technical details.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090A0D"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2F6BFF"/>
-      <stop offset="1" stop-color="#67E8F9"/>
-    </linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-  <rect x="42" y="38" width="1116" height="284" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.10"/>
-  <circle cx="1084" cy="76" r="8" fill="#67E8F9"/>
-  <circle cx="1114" cy="76" r="8" fill="#2F6BFF"/>
-  <path d="M42 120H1158" stroke="#FFFFFF" stroke-opacity="0.09"/>
-  <text x="70" y="82" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="2.3">DESIGN ENGINEERING / FRONT-END / PRODUCT</text>
-  <text x="70" y="190" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-3.2">GABRIEL REGUSE</text>
-  <text x="72" y="236" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="500">I design interfaces, build systems, and obsess over the details between them.</text>
-  <rect x="70" y="274" width="356" height="3" rx="2" fill="url(#accent)"/>
-  <text x="70" y="307" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">BRAZIL  ·  IFC  ·  2026</text>
-  <g transform="translate(920 164)">
-    <rect x="0" y="0" width="186" height="92" rx="14" fill="#0B1220" stroke="#2F6BFF" stroke-opacity="0.55"/>
-    <rect x="18" y="18" width="64" height="8" rx="4" fill="#2F6BFF"/>
-    <rect x="18" y="36" width="132" height="6" rx="3" fill="#334155"/>
-    <rect x="18" y="50" width="105" height="6" rx="3" fill="#334155"/>
-    <rect x="18" y="68" width="48" height="8" rx="4" fill="#67E8F9" fill-opacity="0.85"/>
-  </g>
-  <path d="M884 210C840 210 828 266 782 266H734" fill="none" stroke="#2F6BFF" stroke-width="2" stroke-dasharray="5 7" stroke-opacity="0.75"/>
-  <circle cx="734" cy="266" r="5" fill="#67E8F9"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
+<title id="title">Gabriel Reguse — interface designer and front-end developer</title>
+<desc id="desc">A Windows 8 and Frutiger Aero inspired hero with sky, glass bubbles, green landscape and colorful live tiles.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1d8fe1"/><stop offset=".52" stop-color="#5fcfff"/><stop offset="1" stop-color="#baf5ff"/></linearGradient>
+  <linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#35cce9" stop-opacity=".9"/><stop offset="1" stop-color="#0786b1"/></linearGradient>
+  <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a7ed5a"/><stop offset="1" stop-color="#43b542"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".62"/><stop offset=".46" stop-color="#fff" stop-opacity=".2"/><stop offset="1" stop-color="#fff" stop-opacity=".08"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#35c8ff"/><stop offset="1" stop-color="#0078d7"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#8fe65d"/><stop offset="1" stop-color="#31a447"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd65c"/><stop offset="1" stop-color="#f28c18"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f47ec7"/><stop offset="1" stop-color="#c026a0"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#035279" flood-opacity=".35"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="1200" height="450" rx="32" fill="url(#sky)"/>
+<circle cx="1025" cy="58" r="92" fill="#fff8b5" opacity=".78" filter="url(#soft)"/><circle cx="1025" cy="58" r="52" fill="#fff8c8" opacity=".95"/>
+<path d="M0 348C171 298 319 329 442 356C588 388 735 348 883 321C1000 300 1095 304 1200 326V450H0Z" fill="url(#grass)"/>
+<path d="M0 382C193 355 336 387 468 401C633 418 765 390 925 366C1048 347 1129 355 1200 365V450H0Z" fill="url(#water)" opacity=".72"/>
+<g opacity=".55" fill="#fff" stroke="#fff" stroke-opacity=".72">
+  <circle cx="78" cy="72" r="29" fill="url(#glass)"/><circle cx="112" cy="108" r="13" fill="url(#glass)"/><circle cx="1135" cy="193" r="36" fill="url(#glass)"/><circle cx="1090" cy="229" r="17" fill="url(#glass)"/><circle cx="788" cy="49" r="21" fill="url(#glass)"/>
+</g>
+<g filter="url(#shadow)">
+  <rect x="54" y="58" width="670" height="284" rx="25" fill="#ffffff" fill-opacity=".21" stroke="#fff" stroke-opacity=".68"/>
+  <rect x="54" y="58" width="670" height="95" rx="25" fill="url(#glass)" opacity=".56"/>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#fff">
+  <text x="88" y="105" font-size="14" font-weight="700" letter-spacing="3">GABRIEL REGUSE / BRAZIL</text>
+  <text x="86" y="180" font-size="63" font-weight="700" letter-spacing="-2">Design it.</text>
+  <text x="86" y="241" font-size="63" font-weight="700" letter-spacing="-2">Then build it.</text>
+  <text x="89" y="286" font-size="20" font-weight="600">Front-end development · UI/UX · Product design</text>
+  <text x="89" y="317" font-size="15" opacity=".94">Informatics student at IFC · building real products, not portfolio exercises</text>
+</g>
+<g filter="url(#shadow)" font-family="Segoe UI,Arial,sans-serif" fill="#fff">
+  <g><rect x="758" y="102" width="181" height="126" rx="10" fill="url(#blue)"/><rect x="758" y="102" width="181" height="50" rx="10" fill="url(#glass)" opacity=".6"/><text x="780" y="150" font-size="34" font-weight="700">UI/UX</text><text x="780" y="204" font-size="13">interfaces · systems</text></g>
+  <g><rect x="951" y="102" width="195" height="126" rx="10" fill="url(#green)"/><rect x="951" y="102" width="195" height="50" rx="10" fill="url(#glass)" opacity=".6"/><text x="973" y="150" font-size="28" font-weight="700">FRONT-END</text><text x="973" y="204" font-size="13">React · TypeScript</text></g>
+  <g><rect x="758" y="240" width="251" height="102" rx="10" fill="url(#pink)"/><rect x="758" y="240" width="251" height="42" rx="10" fill="url(#glass)" opacity=".58"/><text x="781" y="282" font-size="25" font-weight="700">PRODUCT</text><text x="781" y="318" font-size="13">flows · decisions · iteration</text></g>
+  <g><rect x="1021" y="240" width="125" height="102" rx="10" fill="url(#orange)"/><rect x="1021" y="240" width="125" height="42" rx="10" fill="url(#glass)" opacity=".58"/><text x="1043" y="282" font-size="22" font-weight="700">IFC</text><text x="1043" y="317" font-size="12">informatics</text></g>
+</g>
+<g fill="#fff" opacity=".28"><path d="M824 121c25 1 48 13 63 34-35-7-64-2-90 16 4-22 12-38 27-50Z"/><path d="M1002 121c31 9 55 27 72 54-36-10-66-6-91 10 4-28 10-49 19-64Z"/></g>
 </svg>

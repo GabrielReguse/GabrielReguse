@@ -1,27 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Gabriel Reguse — interface, code, product</title>
-  <desc id="desc">Editorial portfolio header for Gabriel Reguse.</desc>
-  <style>
-    .bg{fill:#f3efe6}.ink{fill:#161513}.muted{fill:#6d685f}.line{stroke:#d4cdbf}.accent{fill:#ef4d23}.accent-line{stroke:#ef4d23}
-    @media(prefers-color-scheme:dark){.bg{fill:#11100f}.ink{fill:#f2eee6}.muted{fill:#aaa39a}.line{stroke:#302d29}}
-    text{font-family:Arial,Helvetica,sans-serif}
-  </style>
-  <rect class="bg" width="1200" height="420" rx="18"/>
-  <path class="line" d="M38 74H1162M38 348H1162" stroke-width="1"/>
-  <path class="line" d="M805 74V348" stroke-width="1"/>
-  <circle class="accent" cx="1141" cy="52" r="8"/>
-  <text class="muted" x="40" y="50" font-size="13" font-weight="700" letter-spacing="3">GABRIEL REGUSE / BRAZIL / 2026</text>
-  <text class="muted" x="807" y="50" font-size="13" font-weight="700" letter-spacing="2.6">FRONT-END · UI/UX · PRODUCT</text>
-  <text class="ink" x="40" y="150" font-size="76" font-weight="800" letter-spacing="-4">I DESIGN</text>
-  <text class="ink" x="40" y="228" font-size="76" font-weight="800" letter-spacing="-4">INTERFACES.</text>
-  <rect class="accent" x="40" y="258" width="355" height="52" rx="26"/>
-  <text x="65" y="291" fill="#fffaf2" font-size="18" font-weight="700" letter-spacing="1.4">THEN I BUILD THEM.</text>
-  <text class="ink" x="842" y="145" font-size="18" font-weight="700" letter-spacing="1.2">DESIGN</text>
-  <text class="muted" x="842" y="174" font-size="15">hierarchy · motion · systems</text>
-  <text class="ink" x="842" y="225" font-size="18" font-weight="700" letter-spacing="1.2">CODE</text>
-  <text class="muted" x="842" y="254" font-size="15">React · TypeScript · web</text>
-  <text class="ink" x="842" y="305" font-size="18" font-weight="700" letter-spacing="1.2">PRODUCT</text>
-  <text class="muted" x="842" y="334" font-size="15">real problems, real users</text>
-  <text class="muted" x="40" y="385" font-size="12" font-weight="700" letter-spacing="2.2">INFORMATICS @ IFC</text>
-  <text class="ink" x="1071" y="389" font-size="20" font-weight="800">GR↘</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Reguse — design engineering, front-end and product</title>
+  <desc id="desc">A dark editorial hero with cobalt blue technical details.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090A0D"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2F6BFF"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#FFFFFF" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect x="42" y="38" width="1116" height="284" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <circle cx="1084" cy="76" r="8" fill="#67E8F9"/>
+  <circle cx="1114" cy="76" r="8" fill="#2F6BFF"/>
+  <path d="M42 120H1158" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <text x="70" y="82" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="2.3">DESIGN ENGINEERING / FRONT-END / PRODUCT</text>
+  <text x="70" y="190" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-3.2">GABRIEL REGUSE</text>
+  <text x="72" y="236" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="23" font-weight="500">I design interfaces, build systems, and obsess over the details between them.</text>
+  <rect x="70" y="274" width="356" height="3" rx="2" fill="url(#accent)"/>
+  <text x="70" y="307" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">BRAZIL  ·  IFC  ·  2026</text>
+  <g transform="translate(920 164)">
+    <rect x="0" y="0" width="186" height="92" rx="14" fill="#0B1220" stroke="#2F6BFF" stroke-opacity="0.55"/>
+    <rect x="18" y="18" width="64" height="8" rx="4" fill="#2F6BFF"/>
+    <rect x="18" y="36" width="132" height="6" rx="3" fill="#334155"/>
+    <rect x="18" y="50" width="105" height="6" rx="3" fill="#334155"/>
+    <rect x="18" y="68" width="48" height="8" rx="4" fill="#67E8F9" fill-opacity="0.85"/>
+  </g>
+  <path d="M884 210C840 210 828 266 782 266H734" fill="none" stroke="#2F6BFF" stroke-width="2" stroke-dasharray="5 7" stroke-opacity="0.75"/>
+  <circle cx="734" cy="266" r="5" fill="#67E8F9"/>
 </svg>

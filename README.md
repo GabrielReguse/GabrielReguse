@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Gabriel Reguse — Design, code and product" />
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Reguse — I design interfaces, then I build them" />
 </p>
 
 <p align="center">
@@ -12,64 +12,107 @@
 
 <br>
 
-Gosto de pegar coisas que parecem **mais complicadas, feias ou chatas do que deveriam** e tentar fazer uma versão melhor.
+<table>
+<tr>
+<td width="66%" valign="top">
 
-Na maioria das vezes isso vira interface. Às vezes vira um projeto inteiro.
+## Oi — eu sou o Gabriel.
 
-Hoje estudo Informática no **IFC** e concentro meu trabalho em front-end, UI/UX e produto.
+Estudo Informática no **IFC** e gosto de pegar coisas que parecem mais complicadas, feias ou chatas do que deveriam e tentar fazer uma versão melhor.
+
+Na maioria das vezes isso começa no design e termina em código. Às vezes termina em um projeto inteiro.
+
+Meu foco hoje está em **front-end, UI/UX e produto** — principalmente quando dá para pensar a experiência e também construir o que foi desenhado.
+
+</td>
+<td width="34%" valign="top">
+
+<sub><b>RIGHT NOW</b></sub>
+
+**Building**  
+Certifólio
+
+**Rethinking**  
+Folium
+
+**Learning**  
+front-end architecture  
+product design
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## Selected work
+<sub><b>SELECTED WORK / 03</b></sub>
 
-### [Certifólio](https://github.com/GabrielReguse/certifolio) ↗
+<br><br>
 
-**Cursos e certificados virando uma trajetória que realmente dá vontade de mostrar.**
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/GabrielReguse/certifolio">
+    <img src="./assets/certifolio-card.svg" width="100%" alt="Certifólio" />
+  </a>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/GabrielReguse/inf_25b">
+    <img src="./assets/inf25b-card.svg" width="100%" alt="INF 25B" />
+  </a>
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-Certificados normalmente acabam espalhados entre pastas, e-mails e links. O Certifólio nasceu para colocar tudo em um lugar só, sem transformar isso em outra planilha glorificada.
+**Certifólio** transforma cursos, certificados e metas de aprendizagem em uma trajetória organizada e apresentável — sem virar outra planilha glorificada.
 
-`React 19` &nbsp; `TypeScript` &nbsp; `Hono` &nbsp; `Cloudflare Workers` &nbsp; `D1` &nbsp; `Drizzle`
+[abrir projeto →](https://github.com/GabrielReguse/certifolio)
+
+</td>
+<td valign="top">
+
+**INF 25B** começou para organizar tarefas e avisos da minha turma e cresceu para calendário, eventos, conversa, administração, notificações e PWA.
+
+[abrir projeto →](https://github.com/GabrielReguse/inf_25b)
+
+</td>
+</tr>
+</table>
 
 <br>
 
-### [INF 25B](https://github.com/GabrielReguse/inf_25b) ↗
+<a href="./projects/folium.md">
+  <img src="./assets/folium-card.svg" width="100%" alt="Folium — public case study" />
+</a>
 
-**Um sistema construído em volta da rotina real da minha turma.**
+O **Folium** é meu laboratório para repensar ferramentas de estudo. O código continua privado, mas documentei a ideia e as decisões de produto em um case study público.
 
-Começou como um lugar para organizar tarefas e avisos. Cresceu para provas, calendário, eventos, conversas, administração, notificações e PWA conforme novos problemas apareciam.
-
-`JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `REST API` &nbsp; `PWA` &nbsp; `Vercel`
-
-<br>
-
-### Folium
-
-**Ferramentas de estudo que não precisam parecer software escolar.**
-
-Mapas mentais, apresentações e materiais visuais com bastante foco em personalização, clareza e experiência de uso.
-
-`Product Design` &nbsp; `UI/UX` &nbsp; `Front-end`
+[ler o case study →](./projects/folium.md)
 
 <br>
 
 ---
 
-## What I use
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**No dia a dia**
+### What I actually use
 
-React · TypeScript · JavaScript · CSS · Figma
+`React` · `TypeScript` · `JavaScript` · `CSS`  
+`Figma` · `Vite` · `Git` · `Vercel`
+
+Também trabalho com `Cloudflare`, `Hono`, `D1` e `Drizzle` quando o projeto pede mais do que só front-end.
 
 </td>
 <td width="50%" valign="top">
 
-**Também aparecem bastante**
+### One rule
 
-Cloudflare · Hono · D1 · Drizzle · Vite · Git · Vercel
+Interface boa não precisa provar o tempo todo que foi desenhada.
+
+Ela precisa **funcionar primeiro** — e, se der para ser bonita sem atrapalhar, melhor ainda.
 
 </td>
 </tr>
@@ -79,16 +122,7 @@ Cloudflare · Hono · D1 · Drizzle · Vite · Git · Vercel
 
 ---
 
-## Now
-
-Construindo o **Certifólio**.  
-Repensando o **Folium**.  
-Estudando mais sobre arquitetura de front-end e produto.
-
-E, provavelmente, redesenhando alguma coisa que já funcionava perfeitamente.
-
-<br>
-
 <p align="center">
+  <b>Design the thing. Build the thing. Learn from the thing.</b><br>
   <sub>Gabriel Reguse · Brazil · <a href="mailto:gabrielreguse1@gmail.com">gabrielreguse1@gmail.com</a></sub>
 </p>

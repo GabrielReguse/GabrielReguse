@@ -1,29 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
-  <title id="t">Folium</title><desc id="d">A study product for mind maps, presentations and visual learning materials.</desc>
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
-  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
-  <rect x="30" y="30" width="1140" height="240" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
-  <text x="64" y="74" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="14" letter-spacing="2.2">03 / EDUCATION PRODUCT · PRIVATE CODEBASE</text>
-  <text x="64" y="142" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-2">Folium</text>
-  <text x="64" y="183" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="20">Study tools that do not have to feel like school software.</text>
-  <text x="64" y="232" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="14">REACT 19 · TYPESCRIPT · VITE · FRAMER MOTION · FASTAPI · POSTGRESQL</text>
-  <g transform="translate(768 54)" stroke-linecap="round">
-    <rect x="0" y="0" width="184" height="184" rx="18" fill="#0F172A" stroke="#334155"/>
-    <path d="M92 92L46 54M92 92L48 132M92 92L140 48M92 92L144 132" stroke="#334155" stroke-width="2"/>
-    <rect x="66" y="75" width="52" height="34" rx="10" fill="#2F6BFF"/>
-    <rect x="18" y="36" width="58" height="32" rx="9" fill="#172033" stroke="#475569"/>
-    <rect x="18" y="118" width="60" height="32" rx="9" fill="#172033" stroke="#475569"/>
-    <rect x="122" y="30" width="48" height="32" rx="9" fill="#172033" stroke="#475569"/>
-    <rect x="122" y="118" width="48" height="32" rx="9" fill="#172033" stroke="#475569"/>
-    <circle cx="92" cy="92" r="4" fill="#67E8F9" stroke="none"/>
-    <g transform="translate(214 22)">
-      <rect width="150" height="140" rx="18" fill="#F8FAFC"/>
-      <rect x="18" y="18" width="114" height="70" rx="10" fill="#E8EEF8"/>
-      <rect x="30" y="32" width="58" height="8" rx="4" fill="#2F6BFF"/>
-      <rect x="30" y="50" width="82" height="6" rx="3" fill="#A8B5C7"/>
-      <rect x="30" y="63" width="62" height="6" rx="3" fill="#C2CBD8"/>
-      <rect x="18" y="104" width="50" height="14" rx="7" fill="#67E8F9"/>
-      <rect x="78" y="104" width="54" height="14" rx="7" fill="#D7E1EE"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+<title id="t">Folium</title><desc id="d">A Frutiger Aero product card showing mind maps, slides and study material creation.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#23a9bd"/><stop offset=".48" stop-color="#59cbd4"/><stop offset="1" stop-color="#bff4d7"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a4e85c"/><stop offset="1" stop-color="#3ca64b"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#49cfff"/><stop offset="1" stop-color="#0b7ec3"/></linearGradient>
+  <linearGradient id="yellow" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff07b"/><stop offset="1" stop-color="#f5b927"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".72"/><stop offset="1" stop-color="#fff" stop-opacity=".15"/></linearGradient>
+  <filter id="s"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#075f68" flood-opacity=".3"/></filter>
+</defs>
+<rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+<path d="M0 290C168 250 297 257 431 289C578 324 724 301 882 271C1007 248 1095 249 1200 270V340H0Z" fill="#79d557" opacity=".9"/>
+<g fill="url(#glass)" stroke="#fff" stroke-opacity=".6"><circle cx="1122" cy="57" r="43"/><circle cx="1087" cy="95" r="16"/><circle cx="593" cy="54" r="18"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#07566b">
+  <text x="52" y="66" font-size="14" font-weight="800" letter-spacing="3">03 / LEARNING PRODUCT</text>
+  <text x="50" y="135" font-size="52" font-weight="700">Folium</text>
+  <text x="52" y="176" font-size="20" font-weight="600">Study tools that do not feel like school software.</text>
+  <text x="52" y="216" font-size="15">Mind maps, presentations and visual study material with</text>
+  <text x="52" y="239" font-size="15">editing, templates, motion and user-controlled generation.</text>
+  <text x="52" y="302" font-size="13" font-weight="700">REACT 19 · TYPESCRIPT · VITE · FRAMER MOTION · FASTAPI · POSTGRESQL</text>
+</g>
+<g filter="url(#s)" font-family="Segoe UI,Arial,sans-serif">
+  <rect x="628" y="58" width="520" height="216" rx="16" fill="#fff" fill-opacity=".72" stroke="#fff"/>
+  <rect x="646" y="76" width="246" height="180" rx="11" fill="#edfaff" stroke="#7ad6e7"/>
+  <circle cx="769" cy="135" r="28" fill="url(#green)"/><text x="746" y="141" fill="#fff" font-size="15" font-weight="700">TOPIC</text>
+  <path d="M741 135H696M797 135H842M769 163v36" stroke="#58a9b7" stroke-width="3"/>
+  <rect x="658" y="110" width="66" height="42" rx="9" fill="url(#blue)"/><rect x="813" y="110" width="66" height="42" rx="9" fill="url(#yellow)"/><rect x="735" y="198" width="68" height="42" rx="9" fill="#d96ac6"/>
+  <text x="669" y="136" fill="#fff" font-size="11" font-weight="700">CONCEPT</text><text x="826" y="136" fill="#6b5100" font-size="11" font-weight="700">EXAMPLE</text><text x="746" y="224" fill="#fff" font-size="11" font-weight="700">REVIEW</text>
+  <rect x="910" y="76" width="220" height="83" rx="10" fill="url(#blue)"/><rect x="910" y="171" width="220" height="85" rx="10" fill="url(#green)"/>
+  <text x="930" y="112" fill="#fff" font-size="12" font-weight="700" letter-spacing="1.2">SLIDES</text><rect x="930" y="126" width="130" height="7" rx="3" fill="#fff" opacity=".75"/><rect x="930" y="139" width="90" height="7" rx="3" fill="#fff" opacity=".46"/>
+  <text x="930" y="208" fill="#fff" font-size="12" font-weight="700" letter-spacing="1.2">STUDY SHEET</text><rect x="930" y="222" width="150" height="7" rx="3" fill="#fff" opacity=".75"/><rect x="930" y="235" width="112" height="7" rx="3" fill="#fff" opacity=".46"/>
+</g>
 </svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="t d">
+  <title id="t">How I work</title><desc id="d">Frame, prototype, build and refine.</desc>
+  <rect width="1200" height="210" rx="26" fill="#F8FAFC"/>
+  <rect x="28" y="28" width="1144" height="154" rx="18" fill="none" stroke="#CBD5E1"/>
+  <text x="54" y="64" fill="#2563EB" font-family="ui-monospace, monospace" font-size="13" letter-spacing="2">HOW I WORK</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <g transform="translate(54 90)"><circle cx="16" cy="16" r="16" fill="#0F172A"/><text x="16" y="21" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">1</text><text x="48" y="14" fill="#0F172A" font-size="20" font-weight="700">Frame</text><text x="48" y="38" fill="#64748B" font-size="14">understand the problem</text></g>
+    <path d="M292 106H352" stroke="#94A3B8" stroke-width="2" stroke-dasharray="5 6"/>
+    <g transform="translate(368 90)"><circle cx="16" cy="16" r="16" fill="#2563EB"/><text x="16" y="21" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">2</text><text x="48" y="14" fill="#0F172A" font-size="20" font-weight="700">Prototype</text><text x="48" y="38" fill="#64748B" font-size="14">test hierarchy and flow</text></g>
+    <path d="M620 106H680" stroke="#94A3B8" stroke-width="2" stroke-dasharray="5 6"/>
+    <g transform="translate(696 90)"><circle cx="16" cy="16" r="16" fill="#0F172A"/><text x="16" y="21" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">3</text><text x="48" y="14" fill="#0F172A" font-size="20" font-weight="700">Build</text><text x="48" y="38" fill="#64748B" font-size="14">turn the system into code</text></g>
+    <path d="M912 106H972" stroke="#94A3B8" stroke-width="2" stroke-dasharray="5 6"/>
+    <g transform="translate(988 90)"><circle cx="16" cy="16" r="16" fill="#22D3EE"/><text x="16" y="21" text-anchor="middle" fill="#0F172A" font-size="13" font-weight="800">4</text><text x="48" y="14" fill="#0F172A" font-size="20" font-weight="700">Refine</text><text x="48" y="38" fill="#64748B" font-size="14">polish until it feels right</text></g>
+  </g>
+</svg>

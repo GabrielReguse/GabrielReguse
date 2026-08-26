@@ -1,35 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
-<title id="t">Certifólio</title><desc id="d">A colorful product card showing courses, certificates and a public profile flow.</desc>
+<title id="t">Certifólio</title><desc id="d">A Windows 7 Aero styled product window for Certifólio, with glossy chrome and a course portfolio interface.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#32b8ee"/><stop offset=".58" stop-color="#65d4f3"/><stop offset="1" stop-color="#d8fbff"/></linearGradient>
   <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity=".18"/></linearGradient>
   <linearGradient id="green" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9be45c"/><stop offset="1" stop-color="#39ad49"/></linearGradient>
   <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#38c8ff"/><stop offset="1" stop-color="#0078d7"/></linearGradient>
   <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd55a"/><stop offset="1" stop-color="#f28c18"/></linearGradient>
+  <linearGradient id="aeroBar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d8f7ff" stop-opacity=".94"/><stop offset=".35" stop-color="#8bd8f8" stop-opacity=".86"/><stop offset=".65" stop-color="#3b9ed4" stop-opacity=".92"/><stop offset="1" stop-color="#1680ba" stop-opacity=".94"/></linearGradient>
+  <linearGradient id="captionBtn" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f1fbff"/><stop offset=".5" stop-color="#8bc9e8"/><stop offset="1" stop-color="#428db7"/></linearGradient>
+  <linearGradient id="closeBtn" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd2ca"/><stop offset=".43" stop-color="#ee7059"/><stop offset="1" stop-color="#b82c19"/></linearGradient>
   <filter id="s"><feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#05789a" flood-opacity=".28"/></filter>
 </defs>
-<rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="12" fill="url(#bg)"/>
 <path d="M0 278C173 232 323 250 451 281C605 319 793 284 936 260C1046 242 1121 248 1200 260V340H0Z" fill="#72d655" opacity=".9"/>
 <circle cx="1130" cy="62" r="42" fill="#fff" opacity=".22" stroke="#fff" stroke-opacity=".55"/><circle cx="1109" cy="45" r="11" fill="#fff" opacity=".52"/>
-<g font-family="Segoe UI,Arial,sans-serif">
-  <text x="54" y="66" fill="#073b59" font-size="14" font-weight="800" letter-spacing="3">01 / PRODUCT</text>
-  <text x="52" y="135" fill="#073b59" font-size="52" font-weight="700">Certifólio</text>
-  <text x="54" y="176" fill="#0b5674" font-size="20" font-weight="600">Make every course worth showing.</text>
-  <text x="54" y="216" fill="#0b5674" font-size="15">Courses, certificates, learning goals and a public profile</text>
-  <text x="54" y="239" fill="#0b5674" font-size="15">built around privacy, organization and presentation.</text>
-  <text x="54" y="302" fill="#073b59" font-size="13" font-weight="700">REACT 19 · TYPESCRIPT · HONO · CLOUDFLARE · D1 · DRIZZLE · BETTER AUTH</text>
-</g>
-<g filter="url(#s)" font-family="Segoe UI,Arial,sans-serif" fill="#fff">
-  <rect x="625" y="63" width="150" height="104" rx="10" fill="url(#blue)"/><rect x="786" y="63" width="150" height="104" rx="10" fill="url(#green)"/><rect x="947" y="63" width="202" height="104" rx="10" fill="url(#orange)"/>
-  <g opacity=".55" fill="url(#glass)"><rect x="625" y="63" width="150" height="42" rx="10"/><rect x="786" y="63" width="150" height="42" rx="10"/><rect x="947" y="63" width="202" height="42" rx="10"/></g>
-  <text x="647" y="108" font-size="14" font-weight="700" letter-spacing="1.5">COURSES</text><text x="647" y="144" font-size="25" font-weight="700">24</text>
-  <text x="808" y="108" font-size="14" font-weight="700" letter-spacing="1.5">HOURS</text><text x="808" y="144" font-size="25" font-weight="700">186h</text>
-  <text x="969" y="108" font-size="14" font-weight="700" letter-spacing="1.5">PUBLIC PROFILE</text><text x="969" y="143" font-size="18" font-weight="700">share what matters</text>
-  <rect x="625" y="181" width="524" height="91" rx="13" fill="#fff" fill-opacity=".78" stroke="#fff"/>
-</g>
-<g font-family="Segoe UI,Arial,sans-serif" fill="#0b5674">
-  <circle cx="663" cy="226" r="18" fill="#38bdf8"/><text x="655" y="232" fill="#fff" font-size="17" font-weight="800">✓</text>
-  <text x="696" y="214" font-size="15" font-weight="700">React &amp; TypeScript</text><text x="696" y="238" font-size="13">Completed course · certificate protected</text>
-  <rect x="944" y="211" width="171" height="30" rx="15" fill="#66c74d"/><text x="977" y="231" fill="#fff" font-size="12" font-weight="700">VISIBLE ON PROFILE</text>
-</g>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="54" y="78" fill="#073b59" font-size="14" font-weight="800" letter-spacing="3">01 / PRODUCT</text><text x="52" y="143" fill="#073b59" font-size="52" font-weight="700">Certifólio</text><text x="54" y="184" fill="#0b5674" font-size="20" font-weight="600">Make every course worth showing.</text><text x="54" y="224" fill="#0b5674" font-size="15">Courses, certificates, learning goals and a public profile</text><text x="54" y="247" fill="#0b5674" font-size="15">built around privacy, organization and presentation.</text><text x="54" y="308" fill="#073b59" font-size="13" font-weight="700">REACT 19 · TYPESCRIPT · HONO · CLOUDFLARE · D1 · DRIZZLE · BETTER AUTH</text></g>
+<g filter="url(#s)" font-family="Segoe UI,Arial,sans-serif" fill="#fff"><rect x="625" y="71" width="150" height="104" rx="8" fill="url(#blue)"/><rect x="786" y="71" width="150" height="104" rx="8" fill="url(#green)"/><rect x="947" y="71" width="202" height="104" rx="8" fill="url(#orange)"/><g opacity=".55" fill="url(#glass)"><rect x="625" y="71" width="150" height="42" rx="8"/><rect x="786" y="71" width="150" height="42" rx="8"/><rect x="947" y="71" width="202" height="42" rx="8"/></g><text x="647" y="116" font-size="14" font-weight="700" letter-spacing="1.5">COURSES</text><text x="647" y="152" font-size="25" font-weight="700">24</text><text x="808" y="116" font-size="14" font-weight="700" letter-spacing="1.5">HOURS</text><text x="808" y="152" font-size="25" font-weight="700">186h</text><text x="969" y="116" font-size="14" font-weight="700" letter-spacing="1.5">PUBLIC PROFILE</text><text x="969" y="151" font-size="18" font-weight="700">share what matters</text><rect x="625" y="189" width="524" height="91" rx="10" fill="#fff" fill-opacity=".82" stroke="#fff"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#0b5674"><circle cx="663" cy="234" r="18" fill="#38bdf8"/><text x="655" y="240" fill="#fff" font-size="17" font-weight="800">✓</text><text x="696" y="222" font-size="15" font-weight="700">React &amp; TypeScript</text><text x="696" y="246" font-size="13">Completed course · certificate protected</text><rect x="944" y="219" width="171" height="30" rx="15" fill="#66c74d"/><text x="977" y="239" fill="#fff" font-size="12" font-weight="700">VISIBLE ON PROFILE</text></g>
+<!-- Windows 7 Aero chrome -->
+<rect x="3" y="3" width="1194" height="334" rx="11" fill="none" stroke="#0a6da6" stroke-width="6"/><rect x="7" y="7" width="1186" height="326" rx="8" fill="none" stroke="#bcefff" stroke-width="1.5" opacity=".9"/>
+<path d="M12 7H1188Q1193 7 1193 12V42H7V12Q7 7 12 7Z" fill="url(#aeroBar)"/><path d="M12 9H1188" stroke="#fff" stroke-width="2" opacity=".72"/>
+<text x="22" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#073b59">Certifólio — Learning Portfolio</text>
+<g transform="translate(1032 8)"><g><rect width="47" height="28" rx="2" fill="url(#captionBtn)" stroke="#2c7097"/><path d="M17 19h13" stroke="#fff" stroke-width="2"/><path d="M17 18h13" stroke="#2b5c78"/></g><g transform="translate(48)"><rect width="47" height="28" rx="2" fill="url(#captionBtn)" stroke="#2c7097"/><rect x="17" y="8" width="13" height="11" fill="none" stroke="#fff" stroke-width="2"/><rect x="18" y="9" width="11" height="9" fill="none" stroke="#2b5c78"/></g><g transform="translate(96)"><rect width="59" height="28" rx="2" fill="url(#closeBtn)" stroke="#9e2618"/><path d="M22 8l15 12M37 8L22 20" stroke="#fff" stroke-width="2.2"/></g></g>
 </svg>

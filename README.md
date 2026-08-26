@@ -1,43 +1,39 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Gabriel Reguse — I design interfaces, then I build them" />
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Reguse — interface designer and front-end developer" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielreguse">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:gabrielreguse1@gmail.com">Email</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/GabrielReguse?tab=repositories">Repositories</a>
+  <a href="https://www.linkedin.com/in/gabrielreguse"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:gabrielreguse1@gmail.com"><b>Email</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/GabrielReguse?tab=repositories"><b>Repositories</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="./projects/folium.md"><b>Folium case study</b></a>
 </p>
 
 <br>
 
 <table>
 <tr>
-<td width="66%" valign="top">
+<td width="64%" valign="top">
 
-## Oi — eu sou o Gabriel.
+### Design and code belong in the same loop.
 
-Estudo Informática no **IFC** e gosto de pegar coisas que parecem mais complicadas, feias ou chatas do que deveriam e tentar fazer uma versão melhor.
+I'm **Gabriel Reguse**, an Informatics student at **IFC** in Brazil. I like projects where I can understand the problem, shape the experience, design the interface and still be the person who turns it into a working product.
 
-Na maioria das vezes isso começa no design e termina em código. Às vezes termina em um projeto inteiro.
-
-Meu foco hoje está em **front-end, UI/UX e produto** — principalmente quando dá para pensar a experiência e também construir o que foi desenhado.
+Most of my work lives between **front-end development, UI/UX and product design**. I care about visual hierarchy, responsive behavior, motion, accessibility and the less-visible architecture that keeps an interface maintainable after the first pretty screen.
 
 </td>
-<td width="34%" valign="top">
+<td width="36%" valign="top">
 
-<sub><b>RIGHT NOW</b></sub>
+### At a glance
 
-**Building**  
-Certifólio
-
-**Rethinking**  
-Folium
-
-**Learning**  
-front-end architecture  
-product design
+**Based in** — Brazil  
+**Studying** — Informatics @ IFC  
+**Focus** — Front-end · UI/UX · Product  
+**Main stack** — React · TypeScript  
+**Open to** — Internship / Junior roles
 
 </td>
 </tr>
@@ -45,74 +41,137 @@ product design
 
 <br>
 
-<sub><b>SELECTED WORK / 03</b></sub>
+<p align="center">
+  <img src="./assets/capabilities-aero.svg" width="100%" alt="Product design, UI systems, front-end and product thinking" />
+</p>
 
-<br><br>
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/GabrielReguse/certifolio">
-    <img src="./assets/certifolio-card.svg" width="100%" alt="Certifólio" />
-  </a>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/GabrielReguse/inf_25b">
-    <img src="./assets/inf25b-card.svg" width="100%" alt="INF 25B" />
-  </a>
-</td>
-</tr>
-<tr>
-<td valign="top">
+## Selected work
 
-**Certifólio** transforma cursos, certificados e metas de aprendizagem em uma trajetória organizada e apresentável — sem virar outra planilha glorificada.
+<a href="https://github.com/GabrielReguse/certifolio">
+  <img src="./assets/certifolio-card.svg" width="100%" alt="Certifólio — full-stack learning portfolio" />
+</a>
 
-[abrir projeto →](https://github.com/GabrielReguse/certifolio)
+**Certifólio** is a full-stack platform for organizing courses, certificates and learning goals, then turning them into a professional public profile with selective visibility and protected files.
 
-</td>
-<td valign="top">
+`React 19` · `TypeScript` · `Vite` · `Hono` · `Cloudflare Workers` · `D1` · `Drizzle` · `Better Auth` · `Zod` · `Cloudinary`
 
-**INF 25B** começou para organizar tarefas e avisos da minha turma e cresceu para calendário, eventos, conversa, administração, notificações e PWA.
+**→ [Open repository](https://github.com/GabrielReguse/certifolio)**
 
-[abrir projeto →](https://github.com/GabrielReguse/inf_25b)
+<br>
 
-</td>
-</tr>
-</table>
+<a href="https://github.com/GabrielReguse/inf_25b">
+  <img src="./assets/inf25b-card.svg" width="100%" alt="INF 25B — class platform" />
+</a>
+
+**INF 25B** started as a way to organize my class routine and grew into a shared platform for assignments, exams, calendar, announcements, conversations, events, notifications and administration.
+
+`JavaScript` · `HTML` · `CSS` · `REST API` · `PWA` · `Service Worker` · `Vercel` · `GitHub Actions`
+
+**→ [Open repository](https://github.com/GabrielReguse/inf_25b)**
 
 <br>
 
 <a href="./projects/folium.md">
-  <img src="./assets/folium-card.svg" width="100%" alt="Folium — public case study" />
+  <img src="./assets/folium-card.svg" width="100%" alt="Folium — visual study tools" />
 </a>
 
-O **Folium** é meu laboratório para repensar ferramentas de estudo. O código continua privado, mas documentei a ideia e as decisões de produto em um case study público.
+**Folium** is my learning-product experiment: mind maps, presentations and study sheets with templates, editing, motion and AI-assisted generation that stays under the user's control. The codebase is private, so I keep a public case study instead.
 
-[ler o case study →](./projects/folium.md)
+`React 19` · `TypeScript` · `Vite` · `Framer Motion` · `Chart.js` · `FastAPI` · `PostgreSQL` · `AI providers with fallback`
+
+**→ [Read the public case study](./projects/folium.md)**
 
 <br>
 
----
+<p align="center">
+  <img src="./assets/stack-aero.svg" width="100%" alt="Technology start screen" />
+</p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### What I actually use
+### Interface
 
-`React` · `TypeScript` · `JavaScript` · `CSS`  
-`Figma` · `Vite` · `Git` · `Vercel`
-
-Também trabalho com `Cloudflare`, `Hono`, `D1` e `Drizzle` quando o projeto pede mais do que só front-end.
+Figma  
+CSS / responsive UI  
+Design systems  
+Motion & microinteractions
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### One rule
+### Front-end
 
-Interface boa não precisa provar o tempo todo que foi desenhada.
+React  
+TypeScript  
+JavaScript  
+Vite
 
-Ela precisa **funcionar primeiro** — e, se der para ser bonita sem atrapalhar, melhor ainda.
+</td>
+<td width="25%" valign="top">
+
+### Back-end & data
+
+Hono  
+Cloudflare Workers / D1  
+Drizzle ORM  
+FastAPI / PostgreSQL
+
+</td>
+<td width="25%" valign="top">
+
+### Product & delivery
+
+Git / GitHub  
+Vercel  
+Cloudinary  
+Auth, validation & CI
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="./assets/now-aero.svg" width="100%" alt="What Gabriel is building, rethinking and learning now" />
+</p>
+
+<br>
+
+## How I like to build
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### ① Understand
+
+Start from the actual annoyance, workflow or user need — not from a component library.
+
+</td>
+<td width="25%" valign="top">
+
+### ② Design
+
+Define hierarchy, states, flows and visual language before polishing individual screens.
+
+</td>
+<td width="25%" valign="top">
+
+### ③ Build
+
+Turn the system into responsive, accessible components and keep the implementation close to the design intent.
+
+</td>
+<td width="25%" valign="top">
+
+### ④ Refine
+
+Test the awkward states, remove friction, tune motion and keep changing the parts that still feel wrong.
 
 </td>
 </tr>
@@ -122,7 +181,12 @@ Ela precisa **funcionar primeiro** — e, se der para ser bonita sem atrapalhar,
 
 ---
 
-<p align="center">
-  <b>Design the thing. Build the thing. Learn from the thing.</b><br>
-  <sub>Gabriel Reguse · Brazil · <a href="mailto:gabrielreguse1@gmail.com">gabrielreguse1@gmail.com</a></sub>
-</p>
+<div align="center">
+
+### Have something that deserves a better interface?
+
+**[Email me](mailto:gabrielreguse1@gmail.com)** &nbsp;&nbsp;•&nbsp;&nbsp; **[LinkedIn](https://www.linkedin.com/in/gabrielreguse)** &nbsp;&nbsp;•&nbsp;&nbsp; **[Browse my repositories](https://github.com/GabrielReguse?tab=repositories)**
+
+<sub>Gabriel Reguse · Front-end · UI/UX · Product · Brazil</sub>
+
+</div>

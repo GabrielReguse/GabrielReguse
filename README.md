@@ -1,49 +1,94 @@
-# Gabriel Reguse
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Reguse — Design, code and product" />
+</p>
 
-**I design interfaces and build them.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielreguse">LinkedIn</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:gabrielreguse1@gmail.com">Email</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/GabrielReguse?tab=repositories">Repositories</a>
+</p>
 
-Estudante de Informática no IFC. Gosto de transformar problemas pequenos e irritantes em interfaces, ferramentas e produtos que eu realmente usaria.
+<br>
 
-[LinkedIn](https://www.linkedin.com/in/gabrielreguse) · [Email](mailto:gabrielreguse1@gmail.com)
+Gosto de pegar coisas que parecem **mais complicadas, feias ou chatas do que deveriam** e tentar fazer uma versão melhor.
 
----
+Na maioria das vezes isso vira interface. Às vezes vira um projeto inteiro.
 
-## Projetos selecionados
+Hoje estudo Informática no **IFC** e concentro meu trabalho em front-end, UI/UX e produto.
 
-### [Certifólio](https://github.com/GabrielReguse/certifolio)
+<br>
 
-Certificados normalmente acabam esquecidos em pastas, e-mails e links. O Certifólio nasceu para juntar isso em um lugar só e transformar cursos concluídos em uma trajetória que faça sentido mostrar.
+## Selected work
 
-`React 19` · `TypeScript` · `Hono` · `Cloudflare Workers` · `D1` · `Drizzle`
+### [Certifólio](https://github.com/GabrielReguse/certifolio) ↗
 
-### [INF 25B](https://github.com/GabrielReguse/inf_25b)
+**Cursos e certificados virando uma trajetória que realmente dá vontade de mostrar.**
 
-Começou como um site para organizar a rotina da minha turma. Cresceu para tarefas, provas, calendário, avisos, conversas, eventos, administração, notificações e PWA.
+Certificados normalmente acabam espalhados entre pastas, e-mails e links. O Certifólio nasceu para colocar tudo em um lugar só, sem transformar isso em outra planilha glorificada.
 
-`JavaScript` · `HTML` · `CSS` · `REST API` · `PWA` · `Vercel`
+`React 19` &nbsp; `TypeScript` &nbsp; `Hono` &nbsp; `Cloudflare Workers` &nbsp; `D1` &nbsp; `Drizzle`
+
+<br>
+
+### [INF 25B](https://github.com/GabrielReguse/inf_25b) ↗
+
+**Um sistema construído em volta da rotina real da minha turma.**
+
+Começou como um lugar para organizar tarefas e avisos. Cresceu para provas, calendário, eventos, conversas, administração, notificações e PWA conforme novos problemas apareciam.
+
+`JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `REST API` &nbsp; `PWA` &nbsp; `Vercel`
+
+<br>
 
 ### Folium
 
-Minha tentativa de fazer ferramentas de estudo parecerem menos com software escolar. Mapas mentais, apresentações e materiais visuais com bastante foco em interface, personalização e experiência de uso.
+**Ferramentas de estudo que não precisam parecer software escolar.**
 
-`Product Design` · `UI/UX` · `Front-end`
+Mapas mentais, apresentações e materiais visuais com bastante foco em personalização, clareza e experiência de uso.
 
----
+`Product Design` &nbsp; `UI/UX` &nbsp; `Front-end`
 
-## Trabalho com
-
-**Principalmente:** React, TypeScript, JavaScript, CSS e Figma.
-
-**Também:** Cloudflare, Hono, D1, Drizzle, Vite, Git e Vercel.
+<br>
 
 ---
 
-## Agora
+## What I use
 
-Construindo o **Certifólio**, repensando o **Folium** e estudando mais sobre arquitetura de front-end e produto.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Provavelmente também redesenhando alguma coisa que já funcionava perfeitamente.
+**No dia a dia**
+
+React · TypeScript · JavaScript · CSS · Figma
+
+</td>
+<td width="50%" valign="top">
+
+**Também aparecem bastante**
+
+Cloudflare · Hono · D1 · Drizzle · Vite · Git · Vercel
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-[github.com/GabrielReguse](https://github.com/GabrielReguse) · [gabrielreguse1@gmail.com](mailto:gabrielreguse1@gmail.com)
+## Now
+
+Construindo o **Certifólio**.  
+Repensando o **Folium**.  
+Estudando mais sobre arquitetura de front-end e produto.
+
+E, provavelmente, redesenhando alguma coisa que já funcionava perfeitamente.
+
+<br>
+
+<p align="center">
+  <sub>Gabriel Reguse · Brazil · <a href="mailto:gabrielreguse1@gmail.com">gabrielreguse1@gmail.com</a></sub>
+</p>

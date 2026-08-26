@@ -1,29 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">What I do</title><desc id="desc">Four colorful Windows 8 inspired tiles for product design, interface systems, front-end engineering and product thinking.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Capabilities Control Panel</title><desc id="desc">A Windows 7 Aero Control Panel style window presenting product design, UI systems, front-end engineering and product thinking.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#064d75"/><stop offset=".55" stop-color="#0878a5"/><stop offset="1" stop-color="#13b6c7"/></linearGradient>
-  <linearGradient id="b" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#0078d7"/></linearGradient>
-  <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9be35d"/><stop offset="1" stop-color="#37a447"/></linearGradient>
-  <linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ef73c5"/><stop offset="1" stop-color="#b82791"/></linearGradient>
-  <linearGradient id="o" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd45a"/><stop offset="1" stop-color="#f28c18"/></linearGradient>
-  <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".55"/><stop offset=".7" stop-color="#fff" stop-opacity="0"/></linearGradient>
-  <filter id="s"><feDropShadow dx="0" dy="9" stdDeviation="10" flood-color="#01273d" flood-opacity=".35"/></filter>
+  <linearGradient id="desktop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2a9bd9"/><stop offset=".55" stop-color="#67cef3"/><stop offset="1" stop-color="#c8f8ff"/></linearGradient>
+  <linearGradient id="aeroBar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#e8fbff"/><stop offset=".3" stop-color="#9bdcf6"/><stop offset=".65" stop-color="#4da7d8"/><stop offset="1" stop-color="#1a7db7"/></linearGradient>
+  <linearGradient id="toolbar" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#e1edf4"/></linearGradient>
+  <linearGradient id="captionBtn" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f5fcff"/><stop offset=".5" stop-color="#91cce8"/><stop offset="1" stop-color="#448eb7"/></linearGradient>
+  <linearGradient id="closeBtn" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffd3cb"/><stop offset=".42" stop-color="#ee725c"/><stop offset="1" stop-color="#b82d19"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f7a5db"/><stop offset="1" stop-color="#bd3294"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7adfff"/><stop offset="1" stop-color="#0a81c5"/></linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b9ef75"/><stop offset="1" stop-color="#43a94c"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe78d"/><stop offset="1" stop-color="#e88e18"/></linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#13526f" flood-opacity=".28"/></filter>
 </defs>
-<rect width="1200" height="360" rx="30" fill="url(#bg)"/>
-<circle cx="1110" cy="75" r="56" fill="#fff" opacity=".18" stroke="#fff" stroke-opacity=".5"/><circle cx="1078" cy="51" r="15" fill="#fff" opacity=".42"/>
-<text x="54" y="54" fill="#e8fbff" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">WHAT I ACTUALLY DO</text>
-<g filter="url(#s)">
-  <rect x="52" y="84" width="264" height="220" rx="12" fill="url(#p)"/><rect x="330" y="84" width="264" height="220" rx="12" fill="url(#b)"/><rect x="608" y="84" width="264" height="220" rx="12" fill="url(#g)"/><rect x="886" y="84" width="262" height="220" rx="12" fill="url(#o)"/>
+<rect width="1200" height="390" rx="14" fill="url(#desktop)"/>
+<circle cx="1115" cy="322" r="96" fill="#7fda5c" opacity=".72"/>
+<g filter="url(#shadow)"><rect x="20" y="16" width="1160" height="358" rx="12" fill="#f8fbfd"/></g>
+<rect x="17" y="13" width="1166" height="364" rx="13" fill="none" stroke="#0b6fa8" stroke-width="6"/><rect x="21" y="17" width="1158" height="356" rx="10" fill="none" stroke="#d0f4ff" stroke-width="1.5"/>
+<path d="M27 17H1173Q1179 17 1179 23V52H21V23Q21 17 27 17Z" fill="url(#aeroBar)"/><path d="M27 19H1173" stroke="#fff" stroke-width="2" opacity=".72"/>
+<text x="39" y="40" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" fill="#0a4261">Control Panel — What I Do</text>
+<g transform="translate(1017 18)"><g><rect width="47" height="28" rx="2" fill="url(#captionBtn)" stroke="#2c7097"/><path d="M17 19h13" stroke="#fff" stroke-width="2"/><path d="M17 18h13" stroke="#2b5c78"/></g><g transform="translate(48)"><rect width="47" height="28" rx="2" fill="url(#captionBtn)" stroke="#2c7097"/><rect x="17" y="8" width="13" height="11" fill="none" stroke="#fff" stroke-width="2"/><rect x="18" y="9" width="11" height="9" fill="none" stroke="#2b5c78"/></g><g transform="translate(96)"><rect width="59" height="28" rx="2" fill="url(#closeBtn)" stroke="#9e2618"/><path d="M22 8l15 12M37 8L22 20" stroke="#fff" stroke-width="2.2"/></g></g>
+<rect x="21" y="52" width="1158" height="49" fill="url(#toolbar)" stroke="#abc1cf"/>
+<g transform="translate(38 63)"><circle cx="12" cy="12" r="12" fill="#eff7fb" stroke="#80a8bf"/><path d="M16 6l-7 6 7 6" fill="none" stroke="#2a729c" stroke-width="2.3"/><circle cx="43" cy="12" r="12" fill="#eff7fb" stroke="#80a8bf"/><path d="M39 6l7 6-7 6" fill="none" stroke="#2a729c" stroke-width="2.3"/></g>
+<rect x="112" y="61" width="620" height="31" rx="3" fill="#fff" stroke="#7fa7bc"/><text x="128" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#405767">Control Panel  ›  Portfolio  ›  Capabilities</text>
+<rect x="835" y="61" width="319" height="31" rx="3" fill="#fff" stroke="#7fa7bc"/><text x="851" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#8598a5">Search capabilities</text>
+<text x="48" y="132" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" fill="#24475c">Adjust how ideas become products</text>
+<text x="49" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#6a7d89">Design, interface systems, implementation and product reasoning in the same workflow.</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+  <g transform="translate(50 179)"><rect width="260" height="144" rx="6" fill="#fff" stroke="#c4d7e2"/><circle cx="55" cy="55" r="34" fill="url(#pink)"/><path d="M42 55h26M55 42v26" stroke="#fff" stroke-width="4" stroke-linecap="round"/><text x="103" y="38" font-size="18" font-weight="600" fill="#245d87">Product Design</text><text x="103" y="64" font-size="13" fill="#405766">Flows and hierarchy</text><text x="103" y="84" font-size="13" fill="#405766">Prototypes and states</text><text x="103" y="104" font-size="13" fill="#405766">Decisions before code</text><text x="23" y="132" font-size="12" fill="#7a8c97">Plan the experience first</text></g>
+  <g transform="translate(326 179)"><rect width="260" height="144" rx="6" fill="#fff" stroke="#c4d7e2"/><circle cx="55" cy="55" r="34" fill="url(#blue)"/><rect x="37" y="38" width="25" height="25" rx="4" fill="none" stroke="#fff" stroke-width="3"/><rect x="50" y="51" width="25" height="25" rx="4" fill="none" stroke="#fff" stroke-width="3"/><text x="103" y="38" font-size="18" font-weight="600" fill="#245d87">UI Systems</text><text x="103" y="64" font-size="13" fill="#405766">Responsive layouts</text><text x="103" y="84" font-size="13" fill="#405766">Components and states</text><text x="103" y="104" font-size="13" fill="#405766">Visual language</text><text x="23" y="132" font-size="12" fill="#7a8c97">Make interfaces coherent</text></g>
+  <g transform="translate(602 179)"><rect width="260" height="144" rx="6" fill="#fff" stroke="#c4d7e2"/><circle cx="55" cy="55" r="34" fill="url(#green)"/><path d="M35 48l20-12 20 12-20 12zM35 62l20 12 20-12" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/><text x="103" y="38" font-size="18" font-weight="600" fill="#245d87">Front-end</text><text x="103" y="64" font-size="13" fill="#405766">React &amp; TypeScript</text><text x="103" y="84" font-size="13" fill="#405766">Motion and responsive UI</text><text x="103" y="104" font-size="13" fill="#405766">Production-ready builds</text><text x="23" y="132" font-size="12" fill="#7a8c97">Turn design into software</text></g>
+  <g transform="translate(878 179)"><rect width="270" height="144" rx="6" fill="#fff" stroke="#c4d7e2"/><circle cx="55" cy="55" r="34" fill="url(#orange)"/><path d="M42 56l9 9 19-23" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="103" y="38" font-size="18" font-weight="600" fill="#245d87">Product Thinking</text><text x="103" y="64" font-size="13" fill="#405766">Solve the real problem</text><text x="103" y="84" font-size="13" fill="#405766">Reduce friction</text><text x="103" y="104" font-size="13" fill="#405766">Iterate with purpose</text><text x="23" y="132" font-size="12" fill="#7a8c97">Make the result feel obvious</text></g>
 </g>
-<g fill="url(#shine)"><rect x="52" y="84" width="264" height="88" rx="12"/><rect x="330" y="84" width="264" height="88" rx="12"/><rect x="608" y="84" width="264" height="88" rx="12"/><rect x="886" y="84" width="262" height="88" rx="12"/></g>
-<g font-family="Segoe UI,Arial,sans-serif" fill="#fff">
-  <circle cx="92" cy="128" r="19" fill="none" stroke="#fff" stroke-width="4"/><path d="M81 128h22M92 117v22" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
-  <text x="78" y="195" font-size="27" font-weight="700">Product Design</text><text x="78" y="226" font-size="15">Flows, hierarchy, prototypes</text><text x="78" y="249" font-size="15">and decisions before code.</text>
-  <rect x="356" y="108" width="38" height="38" rx="7" fill="none" stroke="#fff" stroke-width="4"/><rect x="374" y="126" width="38" height="38" rx="7" fill="none" stroke="#fff" stroke-width="4"/>
-  <text x="356" y="195" font-size="27" font-weight="700">UI Systems</text><text x="356" y="226" font-size="15">Responsive interfaces, states,</text><text x="356" y="249" font-size="15">components and visual language.</text>
-  <path d="M642 111l30 17-30 17-30-17zM612 153l30 17 30-17" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
-  <text x="634" y="195" font-size="27" font-weight="700">Front-end</text><text x="634" y="226" font-size="15">React, TypeScript, motion</text><text x="634" y="249" font-size="15">and production-ready UI.</text>
-  <circle cx="924" cy="128" r="26" fill="none" stroke="#fff" stroke-width="4"/><path d="M912 129l9 9 17-22" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="912" y="195" font-size="27" font-weight="700">Product Thinking</text><text x="912" y="226" font-size="15">Solve the actual problem,</text><text x="912" y="249" font-size="15">then make the solution feel good.</text>
-</g>
+<rect x="21" y="339" width="1158" height="34" fill="#edf5f9" stroke="#c5d6df"/><text x="42" y="361" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#607786">4 capabilities · design and implementation in the same product loop</text>
 </svg>

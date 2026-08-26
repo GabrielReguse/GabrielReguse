@@ -1,18 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 320" role="img" aria-labelledby="title desc">
-  <title id="title">Certifólio</title><desc id="desc">Project cover for Certifólio.</desc>
-  <style>.bg{fill:#11100f}.ink{fill:#f7f2e9}.muted{fill:#aaa39a}.line{stroke:#38332e}.accent{fill:#ef4d23}text{font-family:Arial,Helvetica,sans-serif}</style>
-  <rect class="bg" width="580" height="320" rx="18"/>
-  <path class="line" d="M30 54H550M30 263H550"/>
-  <circle class="accent" cx="530" cy="33" r="7"/>
-  <text class="muted" x="30" y="36" font-size="11" font-weight="700" letter-spacing="2.2">01 / FULL-STACK PRODUCT</text>
-  <g transform="translate(29 79) scale(.7)" fill="none">
-    <path d="M9 16.5C17.7 17.4 25.6 21.1 30.6 27.8V48.2C25.2 42.8 18.1 40.4 9 40.2V16.5Z" class="ink"/>
-    <path d="M55 16.5C46.3 17.4 38.4 21.1 33.4 27.8V48.2C38.8 42.8 45.9 40.4 55 40.2V16.5Z" class="ink" opacity=".45"/>
-    <path d="M5.5 22.5H8V43.7C17.1 40.9 25.2 43.5 30.8 50.8C23.7 45.1 15 44.2 5.5 47.3V22.5Z" class="ink"/>
-    <path d="M58.5 22.5H56V43.7C46.9 40.9 38.8 43.5 33.2 50.8C40.3 45.1 49 44.2 58.5 47.3V22.5Z" class="ink"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Certifólio</title><desc id="d">Courses and certificates turned into a professional learning profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#101A2E"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2F6BFF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+  <rect x="30" y="30" width="1140" height="240" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="64" y="74" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="14" letter-spacing="2.2">01 / FULL-STACK PRODUCT</text>
+  <text x="64" y="142" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-2">Certifólio</text>
+  <text x="64" y="183" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="20">Turn learning history into something worth showing.</text>
+  <text x="64" y="232" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="14">REACT 19 · TYPESCRIPT · HONO · D1 · DRIZZLE · BETTER AUTH</text>
+  <g transform="translate(760 52)">
+    <rect x="0" y="16" width="156" height="176" rx="18" fill="#0F172A" stroke="#334155"/>
+    <rect x="18" y="38" width="58" height="10" rx="5" fill="#2F6BFF"/>
+    <rect x="18" y="62" width="112" height="7" rx="3.5" fill="#334155"/>
+    <rect x="18" y="78" width="88" height="7" rx="3.5" fill="#334155"/>
+    <rect x="18" y="116" width="120" height="46" rx="10" fill="#111C31" stroke="#67E8F9" stroke-opacity="0.35"/>
+    <circle cx="36" cy="139" r="8" fill="#67E8F9"/>
+    <rect x="52" y="132" width="64" height="6" rx="3" fill="#64748B"/>
+    <rect x="52" y="144" width="44" height="5" rx="2.5" fill="#334155"/>
+    <path d="M172 103H222" stroke="#2F6BFF" stroke-width="2" stroke-dasharray="5 6"/>
+    <circle cx="222" cy="103" r="5" fill="#67E8F9"/>
+    <rect x="244" y="46" width="126" height="126" rx="18" fill="#F8FAFC"/>
+    <rect x="264" y="68" width="42" height="42" rx="10" fill="url(#a)"/>
+    <rect x="264" y="126" width="84" height="8" rx="4" fill="#CBD5E1"/>
+    <rect x="264" y="142" width="62" height="6" rx="3" fill="#E2E8F0"/>
   </g>
-  <text class="ink" x="30" y="169" font-size="44" font-weight="800" letter-spacing="-2">Certifólio</text>
-  <text class="muted" x="30" y="203" font-size="15">Courses become a trajectory worth showing.</text>
-  <text class="muted" x="30" y="291" font-size="11" font-weight="700" letter-spacing="1.2">REACT 19 · TYPESCRIPT · CLOUDFLARE · D1</text>
-  <text class="ink" x="520" y="294" font-size="19" font-weight="800">↗</text>
 </svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" role="img" aria-labelledby="t d">
+  <title id="t">Capabilities</title><desc id="d">Interface design, front-end engineering and product systems.</desc>
+  <rect width="1200" height="270" rx="26" fill="#0B1220"/>
+  <rect x="28" y="28" width="1144" height="214" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <text x="56" y="68" fill="#60A5FA" font-family="ui-monospace, monospace" font-size="14" letter-spacing="2">CAPABILITIES</text>
+  <path d="M400 92V218M800 92V218" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="56" y="126" fill="#F8FAFC" font-size="25" font-weight="700">Interface design</text>
+    <text x="56" y="158" fill="#94A3B8" font-size="16">Hierarchy · layout · responsive UX</text>
+    <text x="56" y="184" fill="#94A3B8" font-size="16">design systems · interaction details</text>
+    <rect x="56" y="205" width="84" height="3" rx="2" fill="#2F6BFF"/>
+
+    <text x="430" y="126" fill="#F8FAFC" font-size="25" font-weight="700">Front-end engineering</text>
+    <text x="430" y="158" fill="#94A3B8" font-size="16">React · TypeScript · architecture</text>
+    <text x="430" y="184" fill="#94A3B8" font-size="16">performance · APIs · accessibility</text>
+    <rect x="430" y="205" width="84" height="3" rx="2" fill="#67E8F9"/>
+
+    <text x="830" y="126" fill="#F8FAFC" font-size="25" font-weight="700">Product systems</text>
+    <text x="830" y="158" fill="#94A3B8" font-size="16">problem framing · flows · data</text>
+    <text x="830" y="184" fill="#94A3B8" font-size="16">auth · backend · shipping</text>
+    <rect x="830" y="205" width="84" height="3" rx="2" fill="#2F6BFF"/>
+  </g>
+</svg>

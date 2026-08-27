@@ -45,10 +45,6 @@ Clear skies · good ideas loading</p>
 <a id="projects"></a>
 ## Projects
 
-<table width="100%" cellspacing="0" cellpadding="8">
-<tr>
-<td width="50%" valign="top">
-
 <p align="center">
   <a href="https://github.com/GabrielReguse/certifolio">
     <img src="./assets/certifolio-card.svg" width="100%" alt="Certifólio application window" />
@@ -65,8 +61,7 @@ Clear skies · good ideas loading</p>
 <p><code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Hono</code> · <code>Cloudflare</code> · <code>D1</code></p>
 </details>
 
-</td>
-<td width="50%" valign="top">
+<br />
 
 <p align="center">
   <a href="https://github.com/GabrielReguse/inf_25b">
@@ -84,10 +79,7 @@ Clear skies · good ideas loading</p>
 <p><code>JavaScript</code> · <code>HTML</code> · <code>CSS</code> · <code>REST API</code> · <code>PWA</code> · <code>Vercel</code></p>
 </details>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<br />
 
 <p align="center">
   <a href="./projects/folium.md">
@@ -104,10 +96,6 @@ Clear skies · good ideas loading</p>
 
 <p><code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Framer Motion</code> · <code>FastAPI</code> · <code>PostgreSQL</code></p>
 </details>
-
-</td>
-</tr>
-</table>
 
 <a id="skills"></a>
 ## Skills
@@ -128,27 +116,15 @@ Clear skies · good ideas loading</p>
 <a id="about"></a>
 ## About
 
-<table width="100%" cellspacing="0" cellpadding="12">
-<tr>
-<td width="66%" valign="top">
-
 <p>I’m drawn to the space where thoughtful systems meet expressive interfaces — the details that make a product feel like it has a point of view.</p>
 
 <p>My goal is to make the next action feel obvious, then make the experience worth remembering.</p>
 
-</td>
-<td width="34%" valign="top">
-
-<p><strong>Current focus</strong><br />
-Clear interfaces, useful systems and a little more optimism in digital products.</p>
-
-</td>
-</tr>
-</table>
-
 <p align="center">
   <img src="./assets/now-aero.svg" width="100%" alt="Current focus Aero window" />
 </p>
+
+<p align="center"><sub>Current focus: clear interfaces, useful systems and a little more optimism in digital products.</sub></p>
 
 <a id="contact"></a>
 ## Contact

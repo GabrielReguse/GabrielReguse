@@ -3,15 +3,27 @@
 </p>
 
 <p align="center">
-  <a href="#projects"><b>▣ Projects</b></a>
+  <code>←</code>&nbsp;&nbsp; <code>→</code>&nbsp;&nbsp; <code>↻</code>
+  &nbsp;&nbsp;&nbsp; <code>Gabriel &gt; Portfolio &gt; Welcome</code>
+  &nbsp;&nbsp;&nbsp; <code>⌕ Search</code>
+</p>
+
+<p align="center">
+  <a href="#projects"><b>▣ Explorer</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#how-i-work"><b>◴ How I work</b></a>
+  <a href="#how-i-work"><b>◴ Task Manager</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#skills"><b>⚙ Skills</b></a>
+  <a href="#skills"><b>⚙ Control Panel</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#about"><b>ⓘ About</b></a>
+  <a href="#about"><b>ⓘ System Properties</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="#contact"><b>✉ Contact</b></a>
+  <a href="#contact"><b>✉ Windows Live</b></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/capabilities-aero.svg" width="100%" alt="Windows 7 Aero Control Panel showing Gabriel's capabilities" />
 </p>
 
 <br />
@@ -20,44 +32,39 @@
 <tr>
 <td width="64%" valign="top">
 
-### Design and code belong in the same loop.
+### Welcome, I’m Gabriel Reguse
 
-I’m **Gabriel Reguse**, an Informatics student at **IFC** in Brazil. I like projects where I can understand the problem, shape the experience, design the interface and still be the person who turns it into a working product.
+I’m an Informatics student at **IFC** in Brazil. I like projects where I can understand the problem, shape the experience, design the interface and still be the person who turns it into a working product.
 
-Most of my work lives between **front-end development, UI/UX and product design**. I care about visual hierarchy, responsive behavior, motion, accessibility and the less-visible architecture that keeps an interface maintainable after the first pretty screen.
+My work lives between **front-end development, UI/UX and product design** — with attention to hierarchy, responsive behavior, motion, accessibility and the architecture behind the pretty screen.
 
 </td>
 <td width="36%" valign="top">
 
-### System Properties
+### Current status
 
-**Based in** — Brazil  
-**Studying** — Informatics @ IFC  
-**Focus** — Front-end · UI/UX · Product  
-**Main stack** — React · TypeScript  
-**Open to** — Internship / Junior roles
+`available`
+
+**Role**  
+UI/UX · Front-end · Product
+
+**Mode**  
+Clear skies · good ideas loading
 
 </td>
 </tr>
 </table>
 
-<br />
-
-<p align="center">
-  <img src="./assets/capabilities-aero.svg" width="100%" alt="Product design, UI systems, front-end and product thinking" />
-</p>
-
-<br />
-
 ## <a id="projects"></a>▣ Explorer / Featured projects
 
-I treat each project like an application window: open it, understand the problem, inspect the decisions and see what shipped.
+<p align="center">
+  <img src="./assets/certifolio-card.svg" width="100%" alt="Certifólio application window" />
+</p>
 
-<a href="https://github.com/GabrielReguse/certifolio">
-  <img src="./assets/certifolio-card.svg" width="100%" alt="Certifólio — full-stack learning portfolio" />
-</a>
+<p align="center"><b><a href="https://github.com/GabrielReguse/certifolio">Open Certifólio repository ↗</a></b></p>
 
-### Certifólio
+<details>
+<summary><strong>Certifólio.exe — open details</strong></summary>
 
 **A portfolio that makes progress tangible, not administrative.**
 
@@ -65,15 +72,18 @@ A full-stack platform for organizing courses, certificates and learning goals, t
 
 `React 19` · `TypeScript` · `Vite` · `Hono` · `Cloudflare Workers` · `D1` · `Drizzle` · `Better Auth` · `Zod` · `Cloudinary`
 
-**→ [Open repository](https://github.com/GabrielReguse/certifolio)**
+</details>
 
 <br />
 
-<a href="https://github.com/GabrielReguse/inf_25b">
-  <img src="./assets/inf25b-card.svg" width="100%" alt="INF 25B — class platform" />
-</a>
+<p align="center">
+  <img src="./assets/inf25b-card.svg" width="100%" alt="INF 25B application window" />
+</p>
 
-### INF 25B
+<p align="center"><b><a href="https://github.com/GabrielReguse/inf_25b">Open INF 25B repository ↗</a></b></p>
+
+<details>
+<summary><strong>INF 25B.exe — open details</strong></summary>
 
 **A shared platform for making technical work approachable.**
 
@@ -81,15 +91,18 @@ What started as a way to organize my class routine grew into a shared platform f
 
 `JavaScript` · `HTML` · `CSS` · `REST API` · `PWA` · `Service Worker` · `Vercel` · `GitHub Actions`
 
-**→ [Open repository](https://github.com/GabrielReguse/inf_25b)**
+</details>
 
 <br />
 
-<a href="./projects/folium.md">
-  <img src="./assets/folium-card.svg" width="100%" alt="Folium — visual study tools" />
-</a>
+<p align="center">
+  <img src="./assets/folium-card.svg" width="100%" alt="Folium application window" />
+</p>
 
-### Folium
+<p align="center"><b><a href="./projects/folium.md">Open Folium case study ↗</a></b></p>
+
+<details>
+<summary><strong>Folium.exe — open details</strong></summary>
 
 **A calmer place to turn complex thoughts into visible structure.**
 
@@ -97,15 +110,15 @@ My learning-product experiment: mind maps, presentations and study sheets with t
 
 `React 19` · `TypeScript` · `Vite` · `Framer Motion` · `Chart.js` · `FastAPI` · `PostgreSQL` · `AI providers with fallback`
 
-**→ [Read the public case study](./projects/folium.md)**
+</details>
 
 <br />
 
 <p align="center">
-  <img src="./assets/stack-aero.svg" width="100%" alt="Technology start screen" />
+  <img src="./assets/stack-aero.svg" width="100%" alt="Technology Explorer window" />
 </p>
 
-## <a id="how-i-work"></a>◴ Task Manager / How I like to build
+## <a id="how-i-work"></a>◴ Task Manager / How I build
 
 <table>
 <tr>
@@ -139,8 +152,6 @@ Test the awkward states, remove friction, tune motion and keep changing the part
 </td>
 </tr>
 </table>
-
-> Good design should make the next action feel like the obvious one.
 
 ## <a id="skills"></a>⚙ Control Panel / Installed capabilities
 
@@ -192,10 +203,10 @@ Auth, validation & CI
 <br />
 
 <p align="center">
-  <img src="./assets/now-aero.svg" width="100%" alt="What Gabriel is building, rethinking and learning now" />
+  <img src="./assets/now-aero.svg" width="100%" alt="Current focus Aero window" />
 </p>
 
-## <a id="about"></a>ⓘ About / Readme.txt
+## <a id="about"></a>ⓘ System Properties / About me
 
 I’m interested in the space where thoughtful systems meet expressive interfaces — the tiny details that make a product feel like it has a point of view.
 

@@ -1,119 +1,144 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Gabriel Reguse — Windows 7 Aero and Frutiger Aero portfolio window" />
+</p>
 
-# Gabriel Reguse
-
-### UI/UX · Front-end · Product
-
-`Windows 7 Aero Desktop Portfolio`
-
-Designing digital spaces that feel clear, tactile and a little more optimistic.
+<p align="center">
+  <a href="#projects"><b>▣ Projects</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#how-i-work"><b>◴ How I work</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#skills"><b>⚙ Skills</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#about"><b>ⓘ About</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#contact"><b>✉ Contact</b></a>
+</p>
 
 <br />
 
-[![Open to work](https://img.shields.io/badge/STATUS-open%20to%20selected%20work-49b96e?style=for-the-badge&logoColor=white)](#contact)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-explore-168dcc?style=for-the-badge&logoColor=white)](#projects)
-[![Based in Brazil](https://img.shields.io/badge/BASED%20IN-Brazil-72c5e5?style=for-the-badge&logoColor=white)](#about)
-
-</div>
-
 <table>
 <tr>
-<td colspan="2" valign="middle">
+<td width="64%" valign="top">
 
-<strong>◉ Gabriel Reguse — Portfolio.exe</strong>
-&nbsp;&nbsp; <sub>File&nbsp;&nbsp; Edit&nbsp;&nbsp; View&nbsp;&nbsp; Tools&nbsp;&nbsp; Help</sub>
+### Design and code belong in the same loop.
 
-<div align="right"><code>— □ ✕</code></div>
+I’m **Gabriel Reguse**, an Informatics student at **IFC** in Brazil. I like projects where I can understand the problem, shape the experience, design the interface and still be the person who turns it into a working product.
 
-</td>
-</tr>
-<tr>
-<td width="23%" valign="top">
-
-### Navigation
-
-⌂&nbsp; [Overview](#overview)  
-▣&nbsp; [Projects](#projects)  
-◴&nbsp; [How I work](#how-i-work)  
-⚙&nbsp; [Skills](#skills)  
-ⓘ&nbsp; [About me](#about)  
-✉&nbsp; [Contact](#contact)
-
-<hr />
-
-### Quick access
-
-`F`&nbsp; [Folium](#folium)  
-`C`&nbsp; [Certifólio](#certifólio)  
-`@`&nbsp; [Send a message](#contact)
+Most of my work lives between **front-end development, UI/UX and product design**. I care about visual hierarchy, responsive behavior, motion, accessibility and the less-visible architecture that keeps an interface maintainable after the first pretty screen.
 
 </td>
-<td valign="top">
+<td width="36%" valign="top">
 
-## <a id="overview"></a>Welcome, I’m Gabriel Reguse
+### System Properties
 
-### Interfaces with a little more life in them.
-
-I work between visual systems, interaction details and front-end craft. My goal is simple: make the next action feel obvious, then make the experience worth remembering.
-
-`product thinking` · `interface systems` · `front-end craft`
-
-> **Current status:** available for selected work · clear skies · good ideas loading
+**Based in** — Brazil  
+**Studying** — Informatics @ IFC  
+**Focus** — Front-end · UI/UX · Product  
+**Main stack** — React · TypeScript  
+**Open to** — Internship / Junior roles
 
 </td>
 </tr>
 </table>
 
+<br />
+
+<p align="center">
+  <img src="./assets/capabilities-aero.svg" width="100%" alt="Product design, UI systems, front-end and product thinking" />
+</p>
+
+<br />
+
 ## <a id="projects"></a>▣ Explorer / Featured projects
 
-Selected work, presented as small applications. Each project starts with a problem and ends with something useful enough to open again.
+I treat each project like an application window: open it, understand the problem, inspect the decisions and see what shipped.
 
-| Application | What it is | Focus | Status |
-| --- | --- | --- | --- |
-| **[Folium](#folium)** | A calmer workspace for complex thoughts | Product · UI systems · Front-end | `building` |
-| **[Certifólio](#certifolio)** | A portfolio that makes progress tangible | UX direction · Content · Prototype | `evolving` |
-| **[INF 25B](#inf-25b)** | A product study that makes technical work approachable | Interaction · Research · Visual language | `exploring` |
+<a href="https://github.com/GabrielReguse/certifolio">
+  <img src="./assets/certifolio-card.svg" width="100%" alt="Certifólio — full-stack learning portfolio" />
+</a>
 
-<details>
-<summary><strong>▣ Open all project windows</strong></summary>
+### Certifólio
 
-### <a id="folium"></a>Folium
+**A portfolio that makes progress tangible, not administrative.**
+
+A full-stack platform for organizing courses, certificates and learning goals, then turning them into a professional public profile with selective visibility and protected files.
+
+`React 19` · `TypeScript` · `Vite` · `Hono` · `Cloudflare Workers` · `D1` · `Drizzle` · `Better Auth` · `Zod` · `Cloudinary`
+
+**→ [Open repository](https://github.com/GabrielReguse/certifolio)**
+
+<br />
+
+<a href="https://github.com/GabrielReguse/inf_25b">
+  <img src="./assets/inf25b-card.svg" width="100%" alt="INF 25B — class platform" />
+</a>
+
+### INF 25B
+
+**A shared platform for making technical work approachable.**
+
+What started as a way to organize my class routine grew into a shared platform for assignments, exams, calendar, announcements, conversations, events, notifications and administration.
+
+`JavaScript` · `HTML` · `CSS` · `REST API` · `PWA` · `Service Worker` · `Vercel` · `GitHub Actions`
+
+**→ [Open repository](https://github.com/GabrielReguse/inf_25b)**
+
+<br />
+
+<a href="./projects/folium.md">
+  <img src="./assets/folium-card.svg" width="100%" alt="Folium — visual study tools" />
+</a>
+
+### Folium
 
 **A calmer place to turn complex thoughts into visible structure.**
 
-A modular thinking workspace where maps, slides and notes share one visual language. The challenge is to make depth feel helpful instead of heavy.
+My learning-product experiment: mind maps, presentations and study sheets with templates, editing, motion and AI-assisted generation that stays under the user’s control. The codebase is private, so I keep a public case study instead.
 
-`Product thinking` `UI systems` `Front-end`
+`React 19` · `TypeScript` · `Vite` · `Framer Motion` · `Chart.js` · `FastAPI` · `PostgreSQL` · `AI providers with fallback`
 
----
+**→ [Read the public case study](./projects/folium.md)**
 
-### <a id="certifolio"></a>Certifólio
+<br />
 
-**A portfolio that makes progress feel tangible, not administrative.**
+<p align="center">
+  <img src="./assets/stack-aero.svg" width="100%" alt="Technology start screen" />
+</p>
 
-An editorial learning experience built around proof, reflection and momentum — with a visual rhythm that rewards returning to the work.
+## <a id="how-i-work"></a>◴ Task Manager / How I like to build
 
-`UX direction` `Content design` `Prototype`
+<table>
+<tr>
+<td width="25%" valign="top">
 
----
+### ① Understand
 
-### <a id="inf-25-b"></a>INF 25B
+Start from the actual annoyance, workflow or user need — not from a component library.
 
-**A compact product study about making technical work feel approachable.**
+</td>
+<td width="25%" valign="top">
 
-A focused exploration of hierarchy, onboarding and feedback loops for a product that needs to welcome people before it asks them to learn.
+### ② Design
 
-`Interaction` `Visual language` `Research`
+Define hierarchy, states, flows and visual language before polishing individual screens.
 
-</details>
+</td>
+<td width="25%" valign="top">
 
-## <a id="how-i-work"></a>◴ Task Manager / How I work
+### ③ Build
 
-| Process | What happens |
-| --- | --- |
-| **01 · Frame the real problem** | Turn a vague request into a shared picture of what needs to change. |
-| **02 · Make the invisible visible** | Use flows, prototypes and language to give an idea something people can react to. |
-| **03 · Ship the useful version** | Stay close to the browser, polish the edges and leave a system behind. |
+Turn the system into responsive, accessible components and keep the implementation close to the design intent.
+
+</td>
+<td width="25%" valign="top">
+
+### ④ Refine
+
+Test the awkward states, remove friction, tune motion and keep changing the parts that still feel wrong.
+
+</td>
+</tr>
+</table>
 
 > Good design should make the next action feel like the obvious one.
 
@@ -121,65 +146,72 @@ A focused exploration of hierarchy, onboarding and feedback loops for a product 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### ✦ Experience design
+### Interface
 
-Flows · Wireframes · Prototypes · UX writing
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Interface systems
-
-Visual language · Components · Motion · Accessibility
+Figma  
+CSS / responsive UI  
+Design systems  
+Motion & microinteractions
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### ⌁ Front-end craft
+### Front-end
 
-HTML · CSS · JavaScript · React · Responsive UI
+React  
+TypeScript  
+JavaScript  
+Vite
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### ◎ Product sense
+### Back-end & data
 
-Discovery · Priorities · Iteration · Clear handoffs
+Hono  
+Cloudflare Workers / D1  
+Drizzle ORM  
+FastAPI / PostgreSQL
+
+</td>
+<td width="25%" valign="top">
+
+### Product & delivery
+
+Git / GitHub  
+Vercel  
+Cloudinary  
+Auth, validation & CI
 
 </td>
 </tr>
 </table>
 
-### Technology stack
+<br />
 
-![HTML5](https://img.shields.io/badge/HTML5-168dcc?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2aa7c9?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-78bb55?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-247da9?style=flat-square&logo=react&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-8b75c9?style=flat-square&logo=figma&logoColor=white)
+<p align="center">
+  <img src="./assets/now-aero.svg" width="100%" alt="What Gabriel is building, rethinking and learning now" />
+</p>
 
-## <a id="about"></a>ⓘ System Properties / About me
-
-<table>
-<tr><td><strong>Role</strong></td><td>UI/UX · Front-end · Product</td></tr>
-<tr><td><strong>Location</strong></td><td>Brazil · remote-friendly</td></tr>
-<tr><td><strong>Favorite mode</strong></td><td>Make it clear, then make it delightful</td></tr>
-<tr><td><strong>Current status</strong></td><td>Open to good problems</td></tr>
-</table>
+## <a id="about"></a>ⓘ About / Readme.txt
 
 I’m interested in the space where thoughtful systems meet expressive interfaces — the tiny details that make a product feel like it has a point of view.
 
+I’m especially drawn to products that need both **clarity and character**: tools people can understand quickly, return to often and feel comfortable making their own.
+
 ## <a id="contact"></a>✉ Windows Live / Contact
 
-Have a product, interface or slightly impossible idea in mind? Send it over and we can shape the next window.
+Have something that deserves a better interface? Open a channel:
 
-<!-- Replace the two placeholder links below with your real contact URLs before publishing. -->
-
-[Email Gabriel](mailto:SEU_EMAIL) · [LinkedIn](SEU_LINKEDIN) · [GitHub](https://github.com/SEU_USUARIO)
+<p align="center">
+  <a href="mailto:gabrielreguse1@gmail.com"><b>Email Gabriel</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabrielreguse"><b>LinkedIn</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/GabrielReguse?tab=repositories"><b>Browse repositories</b></a>
+</p>
 
 <br />
 
@@ -187,7 +219,7 @@ Have a product, interface or slightly impossible idea in mind? Send it over and 
 
 `C:\Users\Gabriel\Portfolio` &nbsp; · &nbsp; `Available for selected work`
 
-<sub>A small optimistic desktop for a very real portfolio ✦</sub>
+<sub>Gabriel Reguse · Front-end · UI/UX · Product · Brazil ✦</sub>
 
 </div>
 

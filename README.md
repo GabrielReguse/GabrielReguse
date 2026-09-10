@@ -76,8 +76,8 @@
 ## `// github stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielReguse&show_icons=true&hide_border=true&bg_color=00000000&title_color=B6FF6A&text_color=C9D1D9&icon_color=B6FF6A&ring_color=B6FF6A&include_all_commits=true" alt="Gabriel Reguse GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielReguse&layout=compact&hide_border=true&bg_color=00000000&title_color=B6FF6A&text_color=C9D1D9" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielReguse&theme=github_dark&title_color=B6FF6A&text_color=C9D1D9&bg_color=00000000&border_color=30363D&icon_color=B6FF6A&chart_color=B6FF6A" alt="Gabriel Reguse GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielReguse&theme=github_dark&title_color=B6FF6A&text_color=C9D1D9&bg_color=00000000&border_color=30363D&icon_color=B6FF6A&chart_color=B6FF6A" alt="Most used languages" />
 </p>
 
 <br />

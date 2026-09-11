@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gabrielreguse1@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=B6FF6A" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/gabrielreguse"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=B6FF6A" alt="LinkedIn" /></a>
-  <a href="https://github.com/GabrielReguse"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=B6FF6A" alt="GitHub" /></a>
+  <a href="mailto:gabrielreguse1@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=B6FF6A" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gabrielreguse"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=B6FF6A" alt="LinkedIn" /></a>
+  <a href="https://github.com/GabrielReguse"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=B6FF6A" alt="GitHub" /></a>
 </p>
 
 ---
@@ -44,148 +44,146 @@
 
 ## `// tech stack`
 
-<sub>The cards below use the custom icon set made for this profile.</sub>
-
 ### Front-end
 
 <p align="left">
-  <img src="./assets/stack/html.svg" width="64" height="64" alt="HTML" title="HTML" />
-  <img src="./assets/stack/css.svg" width="64" height="64" alt="CSS" title="CSS" />
-  <img src="./assets/stack/javascript.svg" width="64" height="64" alt="JavaScript" title="JavaScript" />
-  <img src="./assets/stack/typescript.svg" width="64" height="64" alt="TypeScript" title="TypeScript" />
-  <img src="./assets/stack/react.svg" width="64" height="64" alt="React" title="React" />
-  <img src="./assets/stack/react-dom.svg" width="64" height="64" alt="React DOM" title="React DOM" />
-  <img src="./assets/stack/vite.svg" width="64" height="64" alt="Vite" title="Vite" />
-  <img src="./assets/stack/framer-motion.svg" width="64" height="64" alt="Framer Motion" title="Framer Motion" />
-  <img src="./assets/stack/chartjs.svg" width="64" height="64" alt="Chart.js" title="Chart.js" />
-  <img src="./assets/stack/html2canvas.svg" width="64" height="64" alt="html2canvas" title="html2canvas" />
-  <img src="./assets/stack/jspdf.svg" width="64" height="64" alt="jsPDF" title="jsPDF" />
-  <img src="./assets/stack/pptxgenjs.svg" width="64" height="64" alt="PptxGenJS" title="PptxGenJS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_DOM-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React DOM" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Framer_Motion-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/html2canvas-334155?style=for-the-badge" alt="html2canvas" />
+  <img src="https://img.shields.io/badge/jsPDF-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="jsPDF" />
+  <img src="https://img.shields.io/badge/PptxGenJS-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="PptxGenJS" />
 </p>
 
 ### Back-end & APIs
 
 <p align="left">
-  <img src="./assets/stack/python.svg" width="64" height="64" alt="Python" title="Python" />
-  <img src="./assets/stack/nodejs.svg" width="64" height="64" alt="Node.js" title="Node.js" />
-  <img src="./assets/stack/fastapi.svg" width="64" height="64" alt="FastAPI" title="FastAPI" />
-  <img src="./assets/stack/uvicorn.svg" width="64" height="64" alt="Uvicorn" title="Uvicorn" />
-  <img src="./assets/stack/express.svg" width="64" height="64" alt="Express" title="Express" />
-  <img src="./assets/stack/hono.svg" width="64" height="64" alt="Hono" title="Hono" />
-  <img src="./assets/stack/zod.svg" width="64" height="64" alt="Zod" title="Zod" />
-  <img src="./assets/stack/fetch-api.svg" width="64" height="64" alt="Fetch API" title="Fetch API" />
-  <img src="./assets/stack/rest.svg" width="64" height="64" alt="REST" title="REST" />
-  <img src="./assets/stack/json.svg" width="64" height="64" alt="JSON" title="JSON" />
-  <img src="./assets/stack/multipart.svg" width="64" height="64" alt="Multipart" title="Multipart" />
-  <img src="./assets/stack/cors.svg" width="64" height="64" alt="CORS" title="CORS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Uvicorn-4051B5?style=for-the-badge" alt="Uvicorn" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Fetch_API-0284C7?style=for-the-badge" alt="Fetch API" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
+  <img src="https://img.shields.io/badge/Multipart-475569?style=for-the-badge" alt="Multipart" />
+  <img src="https://img.shields.io/badge/CORS-0F766E?style=for-the-badge" alt="CORS" />
 </p>
 
 ### Databases & Data
 
 <p align="left">
-  <img src="./assets/stack/sql.svg" width="64" height="64" alt="SQL" title="SQL" />
-  <img src="./assets/stack/postgresql.svg" width="64" height="64" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="./assets/stack/mongodb.svg" width="64" height="64" alt="MongoDB" title="MongoDB" />
-  <img src="./assets/stack/cloudflare-d1.svg" width="64" height="64" alt="Cloudflare D1" title="Cloudflare D1" />
-  <img src="./assets/stack/psycopg.svg" width="64" height="64" alt="Psycopg" title="Psycopg" />
-  <img src="./assets/stack/mongoose.svg" width="64" height="64" alt="Mongoose" title="Mongoose" />
-  <img src="./assets/stack/drizzle-orm.svg" width="64" height="64" alt="Drizzle ORM" title="Drizzle ORM" />
-  <img src="./assets/stack/drizzle-kit.svg" width="64" height="64" alt="Drizzle Kit" title="Drizzle Kit" />
-  <img src="./assets/stack/indexeddb.svg" width="64" height="64" alt="IndexedDB" title="IndexedDB" />
-  <img src="./assets/stack/localstorage.svg" width="64" height="64" alt="localStorage" title="localStorage" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare D1" />
+  <img src="https://img.shields.io/badge/Psycopg-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Psycopg" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=111111" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Drizzle_Kit-C5F74F?style=for-the-badge&logo=drizzle&logoColor=111111" alt="Drizzle Kit" />
+  <img src="https://img.shields.io/badge/IndexedDB-4F46E5?style=for-the-badge" alt="IndexedDB" />
+  <img src="https://img.shields.io/badge/localStorage-F59E0B?style=for-the-badge" alt="localStorage" />
 </p>
 
 ### Auth & Security
 
 <p align="left">
-  <img src="./assets/stack/better-auth.svg" width="64" height="64" alt="Better Auth" title="Better Auth" />
-  <img src="./assets/stack/bcrypt.svg" width="64" height="64" alt="bcrypt" title="bcrypt" />
-  <img src="./assets/stack/jwt.svg" width="64" height="64" alt="JWT" title="JWT" />
-  <img src="./assets/stack/python-jose.svg" width="64" height="64" alt="python-jose" title="python-jose" />
-  <img src="./assets/stack/google-oauth.svg" width="64" height="64" alt="Google OAuth" title="Google OAuth" />
-  <img src="./assets/stack/oauth-2.svg" width="64" height="64" alt="OAuth 2.0" title="OAuth 2.0" />
-  <img src="./assets/stack/turnstile.svg" width="64" height="64" alt="Cloudflare Turnstile" title="Cloudflare Turnstile" />
-  <img src="./assets/stack/csp.svg" width="64" height="64" alt="CSP" title="CSP" />
-  <img src="./assets/stack/sha-256.svg" width="64" height="64" alt="SHA-256" title="SHA-256" />
-  <img src="./assets/stack/hmac-sha-256.svg" width="64" height="64" alt="HMAC-SHA-256" title="HMAC-SHA-256" />
+  <img src="https://img.shields.io/badge/Better_Auth-111111?style=for-the-badge" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/bcrypt-7C3AED?style=for-the-badge" alt="bcrypt" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/python--jose-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-jose" />
+  <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OAuth" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-2563EB?style=for-the-badge" alt="OAuth 2.0" />
+  <img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Turnstile" />
+  <img src="https://img.shields.io/badge/CSP-059669?style=for-the-badge" alt="CSP" />
+  <img src="https://img.shields.io/badge/SHA--256-7C3AED?style=for-the-badge" alt="SHA-256" />
+  <img src="https://img.shields.io/badge/HMAC--SHA--256-6D28D9?style=for-the-badge" alt="HMAC-SHA-256" />
 </p>
 
 ### AI & External Services
 
 <p align="left">
-  <img src="./assets/stack/cloudinary.svg" width="64" height="64" alt="Cloudinary" title="Cloudinary" />
-  <img src="./assets/stack/resend.svg" width="64" height="64" alt="Resend" title="Resend" />
-  <img src="./assets/stack/smtp.svg" width="64" height="64" alt="SMTP" title="SMTP" />
-  <img src="./assets/stack/gmail-smtp.svg" width="64" height="64" alt="Gmail SMTP" title="Gmail SMTP" />
-  <img src="./assets/stack/groq-api.svg" width="64" height="64" alt="Groq API" title="Groq API" />
-  <img src="./assets/stack/gemini-api.svg" width="64" height="64" alt="Gemini API" title="Gemini API" />
-  <img src="./assets/stack/cerebras-api.svg" width="64" height="64" alt="Cerebras API" title="Cerebras API" />
-  <img src="./assets/stack/wikimedia-commons-api.svg" width="64" height="64" alt="Wikimedia Commons API" title="Wikimedia Commons API" />
-  <img src="./assets/stack/web-push.svg" width="64" height="64" alt="Web Push" title="Web Push" />
-  <img src="./assets/stack/vapid.svg" width="64" height="64" alt="VAPID" title="VAPID" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Resend-111111?style=for-the-badge&logo=resend&logoColor=white" alt="Resend" />
+  <img src="https://img.shields.io/badge/SMTP-475569?style=for-the-badge" alt="SMTP" />
+  <img src="https://img.shields.io/badge/Gmail_SMTP-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail SMTP" />
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Cerebras_API-FF6B00?style=for-the-badge" alt="Cerebras API" />
+  <img src="https://img.shields.io/badge/Wikimedia_Commons_API-111111?style=for-the-badge&logo=wikimediacommons&logoColor=white" alt="Wikimedia Commons API" />
+  <img src="https://img.shields.io/badge/Web_Push-2563EB?style=for-the-badge" alt="Web Push" />
+  <img src="https://img.shields.io/badge/VAPID-9333EA?style=for-the-badge" alt="VAPID" />
 </p>
 
 ### Libraries, PWA & Browser
 
 <p align="left">
-  <img src="./assets/stack/service-workers.svg" width="64" height="64" alt="Service Workers" title="Service Workers" />
-  <img src="./assets/stack/pwa.svg" width="64" height="64" alt="PWA" title="PWA" />
-  <img src="./assets/stack/web-app-manifest.svg" width="64" height="64" alt="Web App Manifest" title="Web App Manifest" />
-  <img src="./assets/stack/pypdf.svg" width="64" height="64" alt="pypdf" title="pypdf" />
-  <img src="./assets/stack/httpx.svg" width="64" height="64" alt="HTTPX" title="HTTPX" />
-  <img src="./assets/stack/requests.svg" width="64" height="64" alt="Requests" title="Requests" />
-  <img src="./assets/stack/multer.svg" width="64" height="64" alt="Multer" title="Multer" />
-  <img src="./assets/stack/dotenv-python-dotenv.svg" width="64" height="64" alt="dotenv / python-dotenv" title="dotenv / python-dotenv" />
+  <img src="https://img.shields.io/badge/Service_Workers-FF6D00?style=for-the-badge" alt="Service Workers" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <img src="https://img.shields.io/badge/Web_App_Manifest-7C3AED?style=for-the-badge" alt="Web App Manifest" />
+  <img src="https://img.shields.io/badge/pypdf-EF4444?style=for-the-badge&logo=python&logoColor=white" alt="pypdf" />
+  <img src="https://img.shields.io/badge/HTTPX-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="HTTPX" />
+  <img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
+  <img src="https://img.shields.io/badge/Multer-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Multer" />
+  <img src="https://img.shields.io/badge/dotenv_%2F_python--dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=111111" alt="dotenv / python-dotenv" />
 </p>
 
 ### Cloud & Hosting
 
 <p align="left">
-  <img src="./assets/stack/vercel.svg" width="64" height="64" alt="Vercel" title="Vercel" />
-  <img src="./assets/stack/render.svg" width="64" height="64" alt="Render" title="Render" />
-  <img src="./assets/stack/cloudflare-workers.svg" width="64" height="64" alt="Cloudflare Workers" title="Cloudflare Workers" />
-  <img src="./assets/stack/wrangler.svg" width="64" height="64" alt="Wrangler" title="Wrangler" />
-  <img src="./assets/stack/vercel-analytics.svg" width="64" height="64" alt="Vercel Analytics" title="Vercel Analytics" />
-  <img src="./assets/stack/vercel-speed-insights.svg" width="64" height="64" alt="Vercel Speed Insights" title="Vercel Speed Insights" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-111111?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Wrangler" />
+  <img src="https://img.shields.io/badge/Vercel_Analytics-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Analytics" />
+  <img src="https://img.shields.io/badge/Vercel_Speed_Insights-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Speed Insights" />
 </p>
 
 ### Testing, CI/CD & Tooling
 
 <p align="left">
-  <img src="./assets/stack/vitest.svg" width="64" height="64" alt="Vitest" title="Vitest" />
-  <img src="./assets/stack/node-test-runner.svg" width="64" height="64" alt="Node Test Runner" title="Node Test Runner" />
-  <img src="./assets/stack/typescript-compiler.svg" width="64" height="64" alt="TypeScript Compiler" title="TypeScript Compiler" />
-  <img src="./assets/stack/git.svg" width="64" height="64" alt="Git" title="Git" />
-  <img src="./assets/stack/github.svg" width="64" height="64" alt="GitHub" title="GitHub" />
-  <img src="./assets/stack/github-actions.svg" width="64" height="64" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="./assets/stack/dependabot.svg" width="64" height="64" alt="Dependabot" title="Dependabot" />
-  <img src="./assets/stack/npm.svg" width="64" height="64" alt="npm" title="npm" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Node_Test_Runner-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node Test Runner" />
+  <img src="https://img.shields.io/badge/TypeScript_Compiler-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Compiler" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white" alt="Dependabot" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
 ### Design & UI/UX
 
 <p align="left">
-  <img src="./assets/stack/figma.svg" width="64" height="64" alt="Figma" title="Figma" />
-  <img src="./assets/stack/ui-design.svg" width="64" height="64" alt="UI Design" title="UI Design" />
-  <img src="./assets/stack/ux-design.svg" width="64" height="64" alt="UX Design" title="UX Design" />
-  <img src="./assets/stack/design-systems.svg" width="64" height="64" alt="Design Systems" title="Design Systems" />
-  <img src="./assets/stack/wireframing.svg" width="64" height="64" alt="Wireframing" title="Wireframing" />
-  <img src="./assets/stack/prototyping.svg" width="64" height="64" alt="Prototyping" title="Prototyping" />
-  <img src="./assets/stack/responsive-design.svg" width="64" height="64" alt="Responsive Design" title="Responsive Design" />
-  <img src="./assets/stack/accessibility.svg" width="64" height="64" alt="Accessibility" title="Accessibility" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/UI_Design-7C3AED?style=for-the-badge" alt="UI Design" />
+  <img src="https://img.shields.io/badge/UX_Design-2563EB?style=for-the-badge" alt="UX Design" />
+  <img src="https://img.shields.io/badge/Design_Systems-8B5CF6?style=for-the-badge" alt="Design Systems" />
+  <img src="https://img.shields.io/badge/Wireframing-475569?style=for-the-badge" alt="Wireframing" />
+  <img src="https://img.shields.io/badge/Prototyping-10B981?style=for-the-badge" alt="Prototyping" />
+  <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=for-the-badge" alt="Responsive Design" />
+  <img src="https://img.shields.io/badge/Accessibility-7C3AED?style=for-the-badge" alt="Accessibility" />
 </p>
 
 ### Design & Visual
 
 <p align="left">
-  <img src="./assets/stack/typography.svg" width="64" height="64" alt="Typography" title="Typography" />
-  <img src="./assets/stack/color-theory.svg" width="64" height="64" alt="Color Theory" title="Color Theory" />
-  <img src="./assets/stack/branding.svg" width="64" height="64" alt="Branding" title="Branding" />
-  <img src="./assets/stack/icon-design.svg" width="64" height="64" alt="Icon Design" title="Icon Design" />
-  <img src="./assets/stack/motion-design.svg" width="64" height="64" alt="Motion Design" title="Motion Design" />
-  <img src="./assets/stack/visual-hierarchy.svg" width="64" height="64" alt="Visual Hierarchy" title="Visual Hierarchy" />
-  <img src="./assets/stack/layout-composition.svg" width="64" height="64" alt="Layout & Composition" title="Layout & Composition" />
-  <img src="./assets/stack/svg.svg" width="64" height="64" alt="SVG" title="SVG" />
+  <img src="https://img.shields.io/badge/Typography-334155?style=for-the-badge" alt="Typography" />
+  <img src="https://img.shields.io/badge/Color_Theory-EC4899?style=for-the-badge" alt="Color Theory" />
+  <img src="https://img.shields.io/badge/Branding-F59E0B?style=for-the-badge" alt="Branding" />
+  <img src="https://img.shields.io/badge/Icon_Design-6366F1?style=for-the-badge" alt="Icon Design" />
+  <img src="https://img.shields.io/badge/Motion_Design-9333EA?style=for-the-badge" alt="Motion Design" />
+  <img src="https://img.shields.io/badge/Visual_Hierarchy-0891B2?style=for-the-badge" alt="Visual Hierarchy" />
+  <img src="https://img.shields.io/badge/Layout_%26_Composition-0369A1?style=for-the-badge" alt="Layout & Composition" />
+  <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=111111" alt="SVG" />
 </p>
 
 ---

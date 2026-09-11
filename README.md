@@ -2,7 +2,18 @@
   <img src="./assets/banner.svg" width="100%" alt="Gabriel Reguse — Developer e estudante em Santa Catarina, Brasil" />
 </p>
 
-<br />
+<p align="center">
+  <strong>Web developer & student building interfaces, tools and full-stack products.</strong><br/>
+  React · TypeScript · Python · APIs · Cloud · UI/UX
+</p>
+
+<p align="center">
+  <a href="mailto:gabrielreguse1@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=B6FF6A" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gabrielreguse"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=B6FF6A" alt="LinkedIn" /></a>
+  <a href="https://github.com/GabrielReguse"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=B6FF6A" alt="GitHub" /></a>
+</p>
+
+---
 
 ## `// selected work`
 
@@ -10,30 +21,30 @@
   <tr>
     <td width="33%" valign="top">
       <h3>01 — Folium</h3>
-      <p>Educational platform for creating, organizing and improving study materials.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>FastAPI</code></p>
+      <p>Educational platform for creating, organizing and improving study materials, presentations and visual learning content.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>AI APIs</code></p>
       <p><a href="./projects/folium.md"><strong>View case study ↗</strong></a></p>
     </td>
     <td width="33%" valign="top">
       <h3>02 — Certifólio</h3>
-      <p>A platform for organizing courses, certificates and personal progress.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Cloudflare</code></p>
-      <p><a href="https://github.com/GabrielReguse/certifolio"><strong>View project ↗</strong></a></p>
+      <p>Full-stack platform for organizing courses, certificates, progress and a public professional profile.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Cloudflare</code> <code>D1</code></p>
+      <p><a href="https://github.com/GabrielReguse/certifolio"><strong>View repository ↗</strong></a></p>
     </td>
     <td width="33%" valign="top">
       <h3>03 — INF 25B</h3>
-      <p>A platform built for my class to organize tasks, exams, schedules and communication.</p>
-      <p><code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
-      <p><a href="https://github.com/GabrielReguse/inf_25b"><strong>View project ↗</strong></a></p>
+      <p>Class platform for tasks, exams, schedules, communication, polls and day-to-day organization.</p>
+      <p><code>JavaScript</code> <code>Node.js</code> <code>MongoDB</code> <code>PWA</code></p>
+      <p><a href="https://github.com/GabrielReguse/inf_25b"><strong>View repository ↗</strong></a></p>
     </td>
   </tr>
 </table>
 
-<br />
-
 ---
 
 ## `// tech stack`
+
+<sub>The cards below use the custom icon set made for this profile.</sub>
 
 ### Front-end
 
@@ -162,6 +173,11 @@
   <img src="./assets/stack/prototyping.svg" width="64" height="64" alt="Prototyping" title="Prototyping" />
   <img src="./assets/stack/responsive-design.svg" width="64" height="64" alt="Responsive Design" title="Responsive Design" />
   <img src="./assets/stack/accessibility.svg" width="64" height="64" alt="Accessibility" title="Accessibility" />
+</p>
+
+### Design & Visual
+
+<p align="left">
   <img src="./assets/stack/typography.svg" width="64" height="64" alt="Typography" title="Typography" />
   <img src="./assets/stack/color-theory.svg" width="64" height="64" alt="Color Theory" title="Color Theory" />
   <img src="./assets/stack/branding.svg" width="64" height="64" alt="Branding" title="Branding" />
@@ -171,7 +187,6 @@
   <img src="./assets/stack/layout-composition.svg" width="64" height="64" alt="Layout & Composition" title="Layout & Composition" />
   <img src="./assets/stack/svg.svg" width="64" height="64" alt="SVG" title="SVG" />
 </p>
-<br />
 
 ---
 
@@ -182,9 +197,9 @@
 <h2><code>// currently</code></h2>
 
 <p>🟢 Rebuilding <strong>Folium</strong></p>
-<p>⚪ Improving my front-end and UI/UX skills</p>
-<p>⚪ Refining my development workflow</p>
-<p>⚪ Turning ideas into real products</p>
+<p>⚪ Improving front-end architecture and UI/UX</p>
+<p>⚪ Building full-stack projects with real APIs and databases</p>
+<p>⚪ Refining deployment, testing and development workflows</p>
 
 </td>
 <td width="50%" valign="top">
@@ -192,27 +207,21 @@
 <h2><code>// beyond code</code></h2>
 
 <p>I'm a developer and student from Brazil interested in web development, interfaces and digital products.</p>
-
-<p>I enjoy learning, experimenting and building things I'd actually use.</p>
-
+<p>I like turning ideas into projects I would actually use — from the interface to the back-end, deployment and visual identity.</p>
 <p><code>Brazil 🇧🇷</code> <code>UTC−3</code> <code>Developer</code> <code>Student</code></p>
 
 </td>
 </tr>
 </table>
 
-<br />
-
 ---
 
 ## `// github stats`
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielReguse&theme=github_dark&title_color=B6FF6A&text_color=C9D1D9&bg_color=00000000&border_color=30363D&icon_color=B6FF6A&chart_color=B6FF6A" alt="Gabriel Reguse GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielReguse&theme=github_dark&title_color=B6FF6A&text_color=C9D1D9&bg_color=00000000&border_color=30363D&icon_color=B6FF6A&chart_color=B6FF6A" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielReguse&theme=github_dark" alt="Gabriel Reguse GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielReguse&theme=github_dark" alt="Most used languages" />
 </p>
-
-<br />
 
 ---
 
@@ -223,8 +232,6 @@
   <a href="mailto:gabrielreguse1@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=B6FF6A" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/gabrielreguse"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=B6FF6A" alt="LinkedIn" /></a>
 </p>
-
-<br />
 
 <p align="center">
   <sub><code>// thanks for visiting</code> &nbsp; build / learn / repeat</sub>
